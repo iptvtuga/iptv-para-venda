@@ -7,13 +7,44 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDk6MTg6MjcgUE0maGFzaF92YWx1ZT1UOUFaWVluVi9qSS9nRFI1NDZyYnVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzY3NzI5YTAtODE0YS00ZmQ3LWIzNTktNmFjZWM0YTAwM2Fm/
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",SIC Notícias
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDk6MTg6MjcgUE0maGFzaF92YWx1ZT0vb1l3UXljTWJVS010ejZPWWdXc1R3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTEyNjFlMzUtMmUzNS00MDkyLWI3NzUtODI2MGVjM2Y5ZjVh/
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",Euronews PT
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",SIC Internacional
+#https://sicint.live.impresa.pt/sicint.m3u8
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",TVI Internacional
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDk6MTg6MjggUE0maGFzaF92YWx1ZT0yb1BGM2JmWWVPWnkvUjRSekt5c2dBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2EyMWU3MzAtNzU2Zi00ZWExLTlkOGYtNzM3MTg1YmJhMjNj/
+
+
 
 
 
