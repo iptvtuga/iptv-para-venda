@@ -9,8 +9,7 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Portugal",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDk6MTg6MjcgUE0maGFzaF92YWx1ZT1UOUFaWVluVi9qSS9nRFI1NDZyYnVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzY3NzI5YTAtODE0YS00ZmQ3LWIzNTktNmFjZWM0YTAwM2Fm/
-
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" group-title="Portugal",SIC Notícias
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
