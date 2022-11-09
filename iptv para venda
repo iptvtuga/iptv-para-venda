@@ -86,10 +86,13 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1435
 
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13050
+https://server100.online/spt1/tracks-v1a1/mono.m3u8?token=7fe5ef12401a9c028b5d885a276a2066cb3352f2-253aeb10de4c590ce69e0754b46efc8f-1668021416-1668017816
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
+
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-https://list.iptvcat.com/my_list/s/a67d0a5aa3726df5f19b4216f9e12e3c.m3u8
+https://server100.online/spt2/tracks-v1a1/mono.m3u8?token=bef19fa5c3b6bcdde3e8aeda3ed719a96ccd0c9d-d6be7340addb356115399624cffda698-1668022434-1668018834
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
 https://list.iptvcat.com/my_list/s/26682cc95c0449b30563c685be1096c1.m3u8
@@ -113,7 +116,7 @@ http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13050
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1503
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13052
+https://server100.online/eleven1/tracks-v1a1/mono.m3u8?token=da672ef0c45383823329461bf103c1ff79ff5c0f-f223c15da6ccc21595c07ff13aebacaf-1668021738-1668018138
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 HD
 http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13053
