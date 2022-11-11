@@ -7,10 +7,13 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
+#EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal", SIC
+http://93.152.174.144:4000/play/sic/index.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Portugal",TVI
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 
+#EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Portugal",TVI
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" group-title="Portugal",SIC Notícias
 https://sicnot.live.impresa.pt/sicnot.m3u8
@@ -157,7 +160,7 @@ https://list.iptvcat.com/my_list/s/680b1b5e8b1361ad8278dc2a70177235.m3u8
 https://list.iptvcat.com/my_list/s/7ecdb5991be4abd44aaf1f184658b902.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178144?checkedby:iptvcat.com
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTGRP:18+
