@@ -89,7 +89,7 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1435
 
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-https://server100.online/spt1/tracks-v1a1/mono.m3u8?token=7fe5ef12401a9c028b5d885a276a2066cb3352f2-253aeb10de4c590ce69e0754b46efc8f-1668021416-1668017816
+
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
 
@@ -113,47 +113,48 @@ http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13055
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2051
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-https://server100.online/eleven1/tracks-v1a1/mono.m3u8?token=da672ef0c45383823329461bf103c1ff79ff5c0f-f223c15da6ccc21595c07ff13aebacaf-1668021738-1668018138
+https://server100.online/spt1/tracks-v1a1/mono.m3u8?token=7fe5ef12401a9c028b5d885a276a2066cb3352f2-253aeb10de4c590ce69e0754b46efc8f-1668021416-1668017816
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1503
+https://list.iptvcat.com/my_list/s/d7aedd1c536368165530b4d534289063.m3u8
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-https://server100.online/eleven1/tracks-v1a1/mono.m3u8?token=da672ef0c45383823329461bf103c1ff79ff5c0f-f223c15da6ccc21595c07ff13aebacaf-1668021738-1668018138
+https://list.iptvcat.com/my_list/s/9f0186cec8b51b98c52b200ecb650147.m3u8
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 HD
-http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13053
+https://list.iptvcat.com/my_list/s/2ee9f32eb99e3f68c139491450c81c75.m3u8
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 HD
-http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13054
+https://list.iptvcat.com/my_list/s/b1601908fd12b9a32244978260e73dd4.m3u8
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 6 HD
-http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13055
+https://list.iptvcat.com/my_list/s/716474aab36d7c3b8f2618d98a5df9eb.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 1 HD
-http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13036
+https://list.iptvcat.com/my_list/s/4368a9112507348bdc74a41745fb6214.m3u8
 
 #EXTM3U
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",SEurosport 2 HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1518
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
+https://list.iptvcat.com/my_list/s/26e2c027245c1603a79aa95f2dff9486.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
-http://red.ipfox.org:8080/osama2022/osama2023/49361
+https://list.iptvcat.com/my_list/s/5fce2b4905e67ab946e889b132b7f64c.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="Canais Desportivos",Benfica TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1497
+https://list.iptvcat.com/my_list/s/1133a326ee262fd3749d960efe266f5a.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
-https://aipaipara.xyz/nba/tracks-v1/mono.m3u8?token=6471858c9e11206503fa0a9462027488ea06fcdb-68f0a3881e0639655b31a2f30a1995e7-1656475334-1656468134
+https://list.iptvcat.com/my_list/s/397ac44f15d751abebcdeaea75a18616.m3u8
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Canais Desportivos",CANAL 11 HD
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1480
+https://list.iptvcat.com/my_list/s/680b1b5e8b1361ad8278dc2a70177235.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://tvepg.eu/img/germany/logo/motorvision_tv.png" group-title="Canais Desportivos",MOTORVISION
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/4012
+https://list.iptvcat.com/my_list/s/7ecdb5991be4abd44aaf1f184658b902.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178144?checkedby:iptvcat.com
