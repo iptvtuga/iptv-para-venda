@@ -13,7 +13,7 @@ http://93.152.174.144:4000/play/sic/index.m3u8
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Portugal",TVI
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" group-title="Portugal",SIC Notícias
 https://sicnot.live.impresa.pt/sicnot.m3u8
@@ -90,9 +90,15 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1435
 
 
 
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/nV55veq.png"Canais Desportivos", FIGHT SPORTS HD
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Canais Desportivos",Insight Tv HD
+https://insighttv-vizio.amagi.tv/playlist.m3u8
 
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/1MqD0Ap.png" group-title="Canais Desportivos",Fuel TV HD
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
 
