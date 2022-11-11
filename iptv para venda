@@ -88,11 +88,10 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1434
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1435
 
 
-
-
+#EXTINF:0 tvg-country="PT" tvg-logo="	https://u.pokerpt.com/2022/01/World-Poker-Tour-WPT.jpg" group-title="Canais Desportivos",World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Canais Desportivos",Insight Tv HD
 https://insighttv-vizio.amagi.tv/playlist.m3u8
-
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Canais Desportivos",FIGHT SPORTS 
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
@@ -100,7 +99,6 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
 https://server100.online/spt2/tracks-v1a1/mono.m3u8?token=bef19fa5c3b6bcdde3e8aeda3ed719a96ccd0c9d-d6be7340addb356115399624cffda698-1668022434-1668018834
