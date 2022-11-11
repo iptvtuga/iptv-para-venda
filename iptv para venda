@@ -141,11 +141,11 @@ https://list.iptvcat.com/my_list/s/716474aab36d7c3b8f2618d98a5df9eb.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 1 HD
-https://list.iptvcat.com/my_list/s/4368a9112507348bdc74a41745fb6214.m3u8
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
-https://list.iptvcat.com/my_list/s/26e2c027245c1603a79aa95f2dff9486.m3u8
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
@@ -167,6 +167,8 @@ https://list.iptvcat.com/my_list/s/7ecdb5991be4abd44aaf1f184658b902.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 
 #EXTGRP:18+
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
@@ -190,6 +192,69 @@ http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunkli
 #EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",MIA KHALIFA
 #EXTGRP:18+
 http://218158.vod.adultiptv.net/ph5ae33ab4a0327/play.m3u8
+
+#EXTINF:-1 group-title="18+",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="18+",VISIT-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="18+",VISIT-X r
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="18+",REDLIGHT
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="18+",Hustler HD Europe
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="18+",Rouge TV 720p
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="18+",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="18+",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="18+",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="18+",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="18+",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="18+",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="18+",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="18+",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="18+",Russian r
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="18+",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="18+",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="18+",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="18+",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="18+",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="18+",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="18+",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="18+",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="18+",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="18+",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="18+",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="18+",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="18+",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="18+",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="18+",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="18+",Gay
+http://cdn.adultiptv.net/gay.m3u8
 
 
 
