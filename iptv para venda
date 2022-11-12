@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png" group-title="Portugal",RTP 1
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/2561
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png" group-title="Portugal",RTP 2
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/2560
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -31,11 +31,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-a
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png" group-title="Portugal",RTP Açores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo=""http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png" group-title="Portugal",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP África
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
@@ -56,13 +56,13 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",Porto Canal
-https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",Fama TV
 https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",Canal 11
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="Portugal", NA TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
 
 
@@ -70,7 +70,7 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290678
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="Infantil",SIC K
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/4021
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44104
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454" group-title="Infantil",BABY TV
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1441
@@ -79,15 +79,14 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1441
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1439
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw" group-title="Infantil",Canal Panda
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1438
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43945
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Infantil",DISNEY CHANNEL
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1434
-
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70543
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Infantil",DISNEY JUNIOR
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1435
-
-
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43975
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Infantil",Disney Pixar
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/80010
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.poker-king.com/images/articles/wpt_logo_400.jpg" group-title="Canais Desportivos",World Poker Tour
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Canais Desportivos",Insight Tv HD
@@ -103,27 +102,47 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV +
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV +
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/79915
+
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-http://freeiptvgen.com:25461/875956400/freeiptvgen/19956062
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44112
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/90457
+
+
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44114
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/90458
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70530
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
 https://list.iptvcat.com/my_list/s/26682cc95c0449b30563c685be1096c1.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44117
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44120
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
 http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13055
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/92629
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV NBA
-http://freeiptvgen.com:25461/875956400/freeiptvgen/19956064
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/79929
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-http://cineapp.org:8000/Fernando/Fernando/7451
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43981
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/64903
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
@@ -146,14 +165,16 @@ http://cineapp.org:8000/Fernando/Fernando/7456
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159591
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43994
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70534
 
-#EXTM3U
+
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
 http://red.ipfox.org:8080/osama2022/osama2023/49361
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70536
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="Canais Desportivos",Benfica TV
 https://list.iptvcat.com/my_list/s/1133a326ee262fd3749d960efe266f5a.m3u8
@@ -166,7 +187,7 @@ http://red.ipfox.org:8080/osama2022/osama2023/49356
 https://list.iptvcat.com/my_list/s/680b1b5e8b1361ad8278dc2a70177235.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://tvepg.eu/img/germany/logo/motorvision_tv.png" group-title="Canais Desportivos",MOTORVISION
-https://list.iptvcat.com/my_list/s/7ecdb5991be4abd44aaf1f184658b902.m3u8
+http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44049
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
