@@ -159,7 +159,7 @@ http://red.ipfox.org:8080/osama2022/osama2023/49361
 https://list.iptvcat.com/my_list/s/1133a326ee262fd3749d960efe266f5a.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
-https://list.iptvcat.com/my_list/s/397ac44f15d751abebcdeaea75a18616.m3u8
+http://red.ipfox.org:8080/osama2022/osama2023/49356
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Canais Desportivos",CANAL 11 HD
