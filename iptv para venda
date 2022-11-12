@@ -26,119 +26,6 @@ https://video-auth8.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="PT | AFRO MUSIC" tvg-logo="https://www.trzcacak.rs/myfile/full/247-2470357_afro-afro-music.png" group-title="PORTUGAL",PT | AFRO MUSIC
-http://185.134.22.150:8080/jokertv/streaming@2021/1626
-#EXTINF:-1 tvg-id="afro-music" tvg-name="PT | AFRO MUSIC" tvg-logo="https://i.postimg.cc/tTXf01Xd/Afro-Music-Channel-logo-3.png" group-title="PORTUGAL",PT | AFRO MUSIC
-http://185.134.22.150:8080/jokertv/streaming@2021/62898
-#EXTINF:-1 tvg-id="ALMA LUSA" tvg-name="PT | ALMA LUSA" tvg-logo="https://i.postimg.cc/pd2RcPsV/alma-lusa.png" group-title="PORTUGAL",PT | ALMA LUSA
-http://185.134.22.150:8080/jokertv/streaming@2021/62899
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="PT | AMC" tvg-logo="http://200.77.160.48:8090/izzi/v4/img/dummy-img/channels/aMC.png" group-title="PORTUGAL",PT | AMC
-http://185.134.22.150:8080/jokertv/streaming@2021/1624
-#EXTINF:-1 tvg-id="amc" tvg-name="PT | AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="PORTUGAL",PT | AMC
-http://185.134.22.150:8080/jokertv/streaming@2021/62900
-#EXTINF:-1 tvg-id="amc" tvg-name="PT | AMC (B)" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="PORTUGAL",PT | AMC (B)
-http://185.134.22.150:8080/jokertv/streaming@2021/62901
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="PT | ARTV" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7tr2gd5mllfe.png" group-title="PORTUGAL",PT | ARTV
-http://185.134.22.150:8080/jokertv/streaming@2021/1622
-#EXTINF:-1 tvg-id="artv" tvg-name="PT | ARTV" tvg-logo="https://logo.iptveditor.com/artv.png" group-title="PORTUGAL",PT | ARTV
-http://185.134.22.150:8080/jokertv/streaming@2021/62902
-#EXTINF:-1 tvg-id="AXN-POR" tvg-name="PT | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" group-title="PORTUGAL",PT | AXN
-http://185.134.22.150:8080/jokertv/streaming@2021/1620
-#EXTINF:-1 tvg-id="axn-sd" tvg-name="PT | AXN" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="PORTUGAL",PT | AXN
-http://185.134.22.150:8080/jokertv/streaming@2021/62903
-#EXTINF:-1 tvg-id="axn-sd" tvg-name="PT | AXN (B)" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="PORTUGAL",PT | AXN (B)
-http://185.134.22.150:8080/jokertv/streaming@2021/62904
-#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="PT | AXN BLACK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/axn_black.png?itok=Qms3FUZl" group-title="PORTUGAL",PT | AXN BLACK
-http://185.134.22.150:8080/jokertv/streaming@2021/1621
-#EXTINF:-1 tvg-id="axn-bl-sd" tvg-name="PT | AXN MOVIES" tvg-logo="https://logo.iptveditor.com/axnmovies.png" group-title="PORTUGAL",PT | AXN MOVIES
-http://185.134.22.150:8080/jokertv/streaming@2021/62905
-#EXTINF:-1 tvg-id="axn-bl-sd" tvg-name="PT | AXN MOVIES (B)" tvg-logo="https://logo.iptveditor.com/axnmovies.png" group-title="PORTUGAL",PT | AXN MOVIES (B)
-http://185.134.22.150:8080/jokertv/streaming@2021/62906
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="PT | AXN WHITE" tvg-logo="https://seeklogo.com/images/A/axn-white-logo-4568307513-seeklogo.com.png" group-title="PORTUGAL",PT | AXN WHITE
-http://185.134.22.150:8080/jokertv/streaming@2021/1619
-#EXTINF:-1 tvg-id="axn-white-sd" tvg-name="PT | AXN WHITE" tvg-logo="https://logo.iptveditor.com/axnwhite.png" group-title="PORTUGAL",PT | AXN WHITE
-http://185.134.22.150:8080/jokertv/streaming@2021/62907
-#EXTINF:-1 tvg-id="BBC Entertainment PT" tvg-name="PT | BBC ENTERTAINMENT" tvg-logo="https://areamedia.nl/wp-content/uploads/bbc-entertainment.png" group-title="PORTUGAL",PT | BBC ENTERTAINMENT
-http://185.134.22.150:8080/jokertv/streaming@2021/1616
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="PT | BBC ENTERTAINMENT" tvg-logo="https://logo.iptveditor.com/bbcentertainment.png" group-title="PORTUGAL",PT | BBC ENTERTAINMENT
-http://185.134.22.150:8080/jokertv/streaming@2021/62910
-#EXTINF:-1 tvg-id="BBC World PT" tvg-name="PT | BBC WORLD NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s_400x400.png" group-title="PORTUGAL",PT | BBC WORLD NEWS
-http://185.134.22.150:8080/jokertv/streaming@2021/1615
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="PT | BBC WORLD NEWS" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="PORTUGAL",PT | BBC WORLD NEWS
-http://185.134.22.150:8080/jokertv/streaming@2021/62911
-#EXTINF:-1 tvg-id="Blaze PT" tvg-name="PT | BLAZE" tvg-logo="https://image.roku.com/developer_channels/prod/e09d957355f61341352a484c6dd0fbaef06b2afc40014f8aadda14d061830fd6.png" group-title="PORTUGAL",PT | BLAZE
-http://185.134.22.150:8080/jokertv/streaming@2021/1614
-#EXTINF:-1 tvg-id="blaze-hd" tvg-name="PT | BLAZE" tvg-logo="https://logo.iptveditor.com/blaze.png" group-title="PORTUGAL",PT | BLAZE
-http://185.134.22.150:8080/jokertv/streaming@2021/62916
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="PT | BLOOMBERG" tvg-logo="https://logo.iptveditor.com/bloomberg.png" group-title="PORTUGAL",PT | BLOOMBERG
-http://185.134.22.150:8080/jokertv/streaming@2021/62917
-#EXTINF:-1 tvg-id="" tvg-name="PT | C MUSIC TV" tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1496140466/ulmry1vytopk0sdu6uk0.png" group-title="PORTUGAL",PT | C MUSIC TV
-http://185.134.22.150:8080/jokertv/streaming@2021/1608
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="PT | CACA E PESCA" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="PORTUGAL",PT | CACA E PESCA
-http://185.134.22.150:8080/jokertv/streaming@2021/1607
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="PT | CACA VISION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/CASA_Vision.png/revision/latest?cb=20141230180937" group-title="PORTUGAL",PT | CACA VISION
-http://185.134.22.150:8080/jokertv/streaming@2021/1606
-EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="PT | CANCAO NOVA" tvg-logo="https://media.licdn.com/dms/image/C560BAQEW8baU2jVw5A/company-logo_200_200/0?e=2159024400&v=beta&t=0aYZL8eXGak8C3D4MeydQhw8FBs2N5wSCoj4J7xZqfc" group-title="PORTUGAL",PT | CANCAO NOVA
-http://185.134.22.150:8080/jokertv/streaming@2021/1599
-#EXTINF:-1 tvg-id="cancao-nova" tvg-name="PT | CANÇÃO NOVA" tvg-logo="https://logo.iptveditor.com/can.png" group-title="PORTUGAL",PT | CANÇÃO NOVA
-http://185.134.22.150:8080/jokertv/streaming@2021/62925
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="PT | CARTOON NETWORK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/buy-cheap-cartoon-network-clothing-toys-png-logo-5.png" group-title="PORTUGAL",PT | CARTOON NETWORK
-http://185.134.22.150:8080/jokertv/streaming@2021/1598
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="PT | CARTOON NETWORK" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="PORTUGAL",PT | CARTOON NETWORK
-http://185.134.22.150:8080/jokertv/streaming@2021/62926
-#EXTINF:-1 tvg-id="casa-e-cozinha" tvg-name="PT | CASA E COZINHA" tvg-logo="https://i.postimg.cc/cH0JVcgD/Casa-e-cozinha-Logo.png" group-title="PORTUGAL",PT | CASA E COZINHA
-http://185.134.22.150:8080/jokertv/streaming@2021/62927
-#EXTINF:-1 tvg-id="caca-e-pesca" tvg-name="PT | CAÇA E PESCA" tvg-logo="https://logo.iptveditor.com/aepesca.png" group-title="PORTUGAL",PT | CAÇA E PESCA
-http://185.134.22.150:8080/jokertv/streaming@2021/62918
-#EXTINF:-1 tvg-id="cacavision" tvg-name="PT | CAÇAVISION" tvg-logo="https://logo.iptveditor.com/cacavision.png" group-title="PORTUGAL",PT | CAÇAVISION
-http://185.134.22.150:8080/jokertv/streaming@2021/62919
-#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="PT | CBS REALITY" tvg-logo="https://hqtv.biz/tv/logos/m/cbs-reality.png" group-title="PORTUGAL",PT | CBS REALITY
-http://185.134.22.150:8080/jokertv/streaming@2021/1597
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="PT | CINEMUNDO" tvg-logo="http://www.comandotv.com/xbmc/cinemundo.png" group-title="PORTUGAL",PT | CINEMUNDO
-http://185.134.22.150:8080/jokertv/streaming@2021/1596
-#EXTINF:-1 tvg-id="cinemundo" tvg-name="PT | CINEMUNDO" tvg-logo="https://logo.iptveditor.com/cinemundo.png" group-title="PORTUGAL",PT | CINEMUNDO
-http://185.134.22.150:8080/jokertv/streaming@2021/62928
-#EXTINF:-1 tvg-id="cinemundo" tvg-name="PT | CINEMUNDO (B)" tvg-logo="https://logo.iptveditor.com/cinemundo.png" group-title="PORTUGAL",PT | CINEMUNDO (B)
-http://185.134.22.150:8080/jokertv/streaming@2021/62929
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT | CMTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="PORTUGAL",PT | CMTV
-http://185.134.22.150:8080/jokertv/streaming@2021/1592
-#EXTINF:-1 tvg-id="cmtv-sd" tvg-name="PT | CMTV" tvg-logo="https://logo.iptveditor.com/cmtv.png" group-title="PORTUGAL",PT | CMTV
-http://185.134.22.150:8080/jokertv/streaming@2021/62930
-#EXTINF:-1 tvg-id="cmtv-sd" tvg-name="PT | CMTV (B)" tvg-logo="https://logo.iptveditor.com/cmtv.png" group-title="PORTUGAL",PT | CMTV (B)
-http://185.134.22.150:8080/jokertv/streaming@2021/62931
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT | CMTV(OPCAO 2)" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="PORTUGAL",PT | CMTV(OPCAO 2)
-http://185.134.22.150:8080/jokertv/streaming@2021/1594
-#EXTINF:-1 tvg-id="cnbc" tvg-name="PT | CNBC EUROPE" tvg-logo="https://logo.iptveditor.com/cnbceu.png" group-title="PORTUGAL",PT | CNBC EUROPE
-http://185.134.22.150:8080/jokertv/streaming@2021/62932
-#EXTINF:-1 tvg-id="cnn" tvg-name="PT | CNN (EN)" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="PORTUGAL",PT | CNN (EN)
-http://185.134.22.150:8080/jokertv/streaming@2021/62933
-#EXTINF:-1 tvg-id="cnn-pt" tvg-name="PT | CNN PORTUGAL" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="PORTUGAL",PT | CNN PORTUGAL
-http://185.134.22.150:8080/jokertv/streaming@2021/62934
-#EXTINF:-1 tvg-id="Crime plus Investigation PT" tvg-name="PT | CRIME + INVESTIGATION" tvg-logo="https://archive.org/download/CrimeInvestigation/CrimeInvestigation.png" group-title="PORTUGAL",PT | CRIME + INVESTIGATION
-http://185.134.22.150:8080/jokertv/streaming@2021/1591
-#EXTINF:-1 tvg-id="crime-inv" tvg-name="PT | CRIME + INVESTIGATION" tvg-logo="https://logo.iptveditor.com/crimeandinvestigation.png" group-title="PORTUGAL",PT | CRIME + INVESTIGATION
-http://185.134.22.150:8080/jokertv/streaming@2021/62935
-#EXTINF:-1 tvg-id="crime-inv" tvg-name="PT | CRIME + INVESTIGATION (B)" tvg-logo="https://logo.iptveditor.com/crimeandinvestigation.png" group-title="PORTUGAL",PT | CRIME + INVESTIGATION (B)
-http://185.134.22.150:8080/jokertv/streaming@2021/62936
-#EXTINF:-1 tvg-id="" tvg-name="PT | CTC" tvg-logo="https://djqh0pophbxqy.cloudfront.net/wpdata/images/1815-o.png" group-title="PORTUGAL",PT | CTC
-http://185.134.22.150:8080/jokertv/streaming@2021/1590
-#EXTINF:-1 tvg-id="discovery-channel-sd" tvg-name="PT | DISCOVERY" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="PORTUGAL",PT | DISCOVERY
-http://185.134.22.150:8080/jokertv/streaming@2021/62937
-#EXTINF:-1 tvg-id="discovery-channel-sd" tvg-name="PT | DISCOVERY (B)" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="PORTUGAL",PT | DISCOVERY (B)
-http://185.134.22.150:8080/jokertv/streaming@2021/62938
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT | DISCOVERY CHANNEL" tvg-logo="https://p.pngsee.com/uploadpng/small/109-1091126_discovery-press-world-png-logo-logo-discovery-channel.png" group-title="PORTUGAL",PT | DISCOVERY CHANNEL
-http://185.134.22.150:8080/jokertv/streaming@2021/1589
-#EXTINF:-1 tvg-id="Discovery Showcase HD PT" tvg-name="PT | DISCOVERY SHOWCASE" tvg-logo="http://www.logotypes101.com/logos/465/27D97A375263293394AB6EA1039BC1F1/discoveryhdshowcase.png" group-title="PORTUGAL",PT | DISCOVERY SHOWCASE
-http://185.134.22.150:8080/jokertv/streaming@2021/1588
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT | DISNEY CHANNEL" tvg-logo="https://www.netclipart.com/pp/m/261-2610808_disney-channel-png-disney-channel-mickey-ears.png" group-title="PORTUGAL",PT | DISNEY CHANNEL
-http://185.134.22.150:8080/jokertv/streaming@2021/1587
-
-
-
-
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
@@ -219,35 +106,35 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/79915
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44112
+http://185.134.22.150:8080/jokertv/streaming@2021/63040
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/90457
 
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583
+http://185.134.22.150:8080/jokertv/streaming@2021/63043
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44114
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/90458
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70530
+http://185.134.22.150:8080/jokertv/streaming@2021/24042
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
 https://list.iptvcat.com/my_list/s/26682cc95c0449b30563c685be1096c1.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585
+http://185.134.22.150:8080/jokertv/streaming@2021/63049
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44117
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586
+http://185.134.22.150:8080/jokertv/streaming@2021/63052
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44120
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
-http://superiptv1.com:2082/Mihna2020/Super-wdGbcOZ3/13055
+http://185.134.22.150:8080/jokertv/streaming@2021/61039
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/92629
 
@@ -290,7 +177,7 @@ http://red.ipfox.org:8080/osama2022/osama2023/49361
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70536
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="Canais Desportivos",Benfica TV
-https://list.iptvcat.com/my_list/s/1133a326ee262fd3749d960efe266f5a.m3u8
+http://185.134.22.150:8080/jokertv/streaming@2021/1609
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
 http://red.ipfox.org:8080/osama2022/osama2023/49356
