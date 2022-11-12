@@ -26,7 +26,7 @@ https://video-auth8.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+#EXTINF:0 tvg-country="PT" tvg-logo="http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 
@@ -34,7 +34,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-a
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP Madeira
+#EXTINF:0 tvg-country="PT" tvg-logo=""http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png" group-title="Portugal",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP África
@@ -146,8 +146,7 @@ http://cineapp.org:8000/Fernando/Fernando/7456
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 1 HD
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159591
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
