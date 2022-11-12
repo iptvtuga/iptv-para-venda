@@ -101,10 +101,12 @@ http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Canais Desportivos",SporTV BR
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
 
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV +
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
 http://freeiptvgen.com:25461/875956400/freeiptvgen/19956062
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://freeiptvgen.com:25461/875956400/freeiptvgen/19956063
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
 https://list.iptvcat.com/my_list/s/26682cc95c0449b30563c685be1096c1.m3u8
 
@@ -122,16 +124,19 @@ http://freeiptvgen.com:25461/875956400/freeiptvgen/19956064
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
 http://cineapp.org:8000/Fernando/Fernando/7451
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/64903
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-https://list.iptvcat.com/my_list/s/d7aedd1c536368165530b4d534289063.m3u8
-
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/61705
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-https://list.iptvcat.com/my_list/s/9f0186cec8b51b98c52b200ecb650147.m3u8
+http://cineapp.org:8000/Fernando/Fernando/7453
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55130
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 HD
-https://list.iptvcat.com/my_list/s/2ee9f32eb99e3f68c139491450c81c75.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 HD
 https://list.iptvcat.com/my_list/s/b1601908fd12b9a32244978260e73dd4.m3u8
