@@ -96,11 +96,11 @@ https://server100.online/combate/tracks-v1a1/mono.m3u8?token=8e4dfb636117a7a503d
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/b0/ee/ffb0ee48-e94e-b850-bd3b-f380172030ab/source/256x256bb.jpg" group-title="Canais Desportivos",Band Sports
 https://server100.online/band-sports/tracks-v1a1/mono.m3u8?token=a96f4b0f8f8aebe72b9b3c3fb54680104638183a-ce7a42cdd96f8db41de5a80b572057a8-1668363592-1668356392
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 1
-https://server100.online/espn/tracks-v1a1/mono.m3u8?token=48bbb4257eeef82d507b6097eb087d6d899ba937-f7b6d557e5aab0d13b9350ccdf7901a9-1668363180-1668355980
+https://server100.online/espn/tracks-v1a1/mono.m3u8?token=2e6d59f907f2b7f5f4a4ffd1723f9f42c2ae2c93-3da7f2cccc796f3940e54f782dcdac71-1668373710-1668366510
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 2
-https://server100.online/espn2/tracks-v1a1/mono.m3u8?token=e25759e0b5733c539ad7ec88a954689f3c604764-63aa494c8bdd94bc41f928e111e421b1-1668363255-1668356055
+https://server100.online/espn2/tracks-v1a1/mono.m3u8?token=9ab106e9884339d353d7054ce39ae63bd72c0093-bfff29ce48ec35c176388bbad1f7ef3f-1668373830-1668366630
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN Extra
-
+https://server100.online/espn-extra/tracks-v1a1/mono.m3u8?token=f77a253ff25977816d8464587e8697c411d059eb-6fc6446ff3ca6b44d948e58510276e5b-1668373868-1668366668
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Canais Desportivos",FIGHT SPORTS 
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/1MqD0Ap.png" group-title="Canais Desportivos",Fuel TV HD
