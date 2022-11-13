@@ -150,16 +150,16 @@ http://185.134.22.150:8080/jokertv/streaming@2021/61039
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/92629
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV NBA
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/79929
+https://list.iptvcat.com/my_list/s/680b1b5e8b1361ad8278dc2a70177235.m3u8
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43981
+https://server100.online/eleven1/tracks-v1a1/mono.m3u8?token=cf3b3c109ce48e5822790970e4d8b7d7dc4660ce-3e62cda87dd83348a3188fbfadf85295-1668373554-1668366354
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/64903
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/61705
+https://server100.online/eleven2/tracks-v1a1/mono.m3u8?token=77298591a5b9116a5a20eb3dcd4b6e7e0e337cd5-34dc05c3bc2f2dc8162ed84235e48405-1668373467-1668366267
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
 http://cineapp.org:8000/Fernando/Fernando/7453
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
@@ -191,7 +191,7 @@ http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70536
 http://185.134.22.150:8080/jokertv/streaming@2021/1609
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
-http://red.ipfox.org:8080/osama2022/osama2023/49356
+https://server100.online/nba/tracks-v1a1/mono.m3u8?token=dc9478caf0735f79eef59c58b1b4786af65cf4e8-cb36dde9f13cb233f300c9758825b021-1668373316-1668366116
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Canais Desportivos",CANAL 11 HD
