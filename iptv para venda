@@ -21,6 +21,91 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140906
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Portugal",CNN Portugal
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140904
 
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Top FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140915
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Top HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140916
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Emotion FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140917
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Emotion HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140918
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Action FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140919
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Action HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140920
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Edition FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140921
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Edition HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140922
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portugal",Cine Mundo
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140923
+#EXTINF:0 tvg-id="ext" group-title="Portugal",NOS Studios HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140924
+#EXTINF:0 tvg-id="axn.pt" group-title="Portugal",AXN FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140925
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portugal",AXN White FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140926
+#EXTINF:0 tvg-id="ext" group-title="Portugal",AXN Movies FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140927
+#EXTINF:0 tvg-id="AMC.pt" group-title="Portugal",AMC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140928
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Portugal",Fox Crime FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140929
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portugal",Fox Comedy HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140930
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Portugal",Fox Life FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140931
+#EXTINF:0 tvg-id="fox.pt" group-title="Portugal",Fox FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140932
+#EXTINF:0 tvg-id="fox.pt" group-title="Portugal",Fox HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140933
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Portugal",Syfy
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140934
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Portugal",Fox Movies FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140935
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Portugal",Hollywood
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140936
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Portugal",Discovery Channel HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140937
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Investigation Discovery FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140938
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Portugal",National Geographic FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140939
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Portugal",Nat Geo Wild FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140940
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Portugal",Travel Channel FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140941
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Portugal",Cacavision
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140942
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Caza Y Pezca
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140943
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Portugal",CBS Reality
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140944
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Portugal",Historia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140945
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Portugal",Odisseia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140946
+#EXTINF:0 tvg-id="TLC.pt" group-title="Portugal",TLC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140947
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Portugal",24 Kitchen FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140948
+#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Portugal",Food Network HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140949
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Dog TV FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140950
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Blaze
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140951
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Portugal",E! Entertainment
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140952
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Fashion Box HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140953
+
+
+
+
+
+
+
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" group-title="Portugal",Euronews PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
