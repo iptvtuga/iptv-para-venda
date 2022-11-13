@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png" group-title="Portugal",RTP 1
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/2561
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140881
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png" group-title="Portugal",RTP 2
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/2560
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140883
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -16,11 +16,10 @@ https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.novamente.pt/wp-content/uploads/2016/09/sicnot.jpg" group-title="Portugal",SIC Notícias
-https://sicnot.live.impresa.pt/sicnot.m3u8
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140906
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Portugal",CNN Portugal
-
-https://video-auth8.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIyIDc6MjoyNSBQTSZoYXNoX3ZhbHVlPTBOY1BTQytCSmNpNFVTZjg1bUY3RlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mZGRjNWIyOS1hMWZmLTRmZWUtYWEwOS1hZGNlMmQ4MzY5OTc=
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140904
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" group-title="Portugal",Euronews PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -31,20 +30,21 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-a
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png" group-title="Portugal",RTP Açores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140888
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo=""http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png" group-title="Portugal",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP África
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140889
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",SIC Internacional
-#https://sicint.live.impresa.pt/sicint.m3u8
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140890
+#EXTINF:0 tvg-country="PT" tvg-logo="data:image/jpeg;base64,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" group-title="Portugal",CMTV FHD
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDk6MTg6MjggUE0maGFzaF92YWx1ZT0yb1BGM2JmWWVPWnkvUjRSekt5c2dBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2EyMWU3MzAtNzU2Zi00ZWExLTlkOGYtNzM3MTg1YmJhMjNj/
@@ -73,10 +73,10 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290678
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44104
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454" group-title="Infantil",BABY TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1441
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140961
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png" group-title="Infantil",BIGGS
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1439
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140967
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw" group-title="Infantil",Canal Panda
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43945
@@ -107,53 +107,52 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Canais Desportivos",SporTV BR
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140913
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV +
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140979
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV +
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/79915
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140979
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-https://server100.online/spt1/tracks-v1a1/mono.m3u8?token=4cd4efe8d7d267ecb3d37eb485160c42b43f026f-faeaff48547c7ef48ed2d4d38e38190e-1668378063-1668370863
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140829
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-https://server100.online/spt1/tracks-v1a1/mono.m3u8?token=4cd4efe8d7d267ecb3d37eb485160c42b43f026f-faeaff48547c7ef48ed2d4d38e38190e-1668378063-1668370863
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140830
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-https://server100.online/spt1/tracks-v1a1/mono.m3u8?token=4cd4efe8d7d267ecb3d37eb485160c42b43f026f-faeaff48547c7ef48ed2d4d38e38190e-1668378063-1668370863
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140831
 
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://185.134.22.150:8080/jokertv/streaming@2021/63043
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140835
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-https://server100.online/spt2/tracks-v1a1/mono.m3u8?token=0da84ef5b2029aa01aa450401764cc53c250ac5a-21616d8b1e88b5361b39eceea26cd1c7-1668371228-1668364028
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140836
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/90458
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140838
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
-http://185.134.22.150:8080/jokertv/streaming@2021/24042
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140839
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
 https://server100.online/spt3/tracks-v1a1/mono.m3u8?token=46993e22394dd380041f37773e9d3aaa867375e0-fff8ac4e0d16170a6c1a047afe09041c-1668371305-1668364105
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://185.134.22.150:8080/jokertv/streaming@2021/63049
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140843
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44117
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140844
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
-http://185.134.22.150:8080/jokertv/streaming@2021/63052
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140846
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44120
-
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140847
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
 http://185.134.22.150:8080/jokertv/streaming@2021/61039
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/92629
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV NBA
-https://list.iptvcat.com/my_list/s/680b1b5e8b1361ad8278dc2a70177235.m3u8
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140849
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-https://server100.online/eleven1/tracks-v1a1/mono.m3u8?token=cf3b3c109ce48e5822790970e4d8b7d7dc4660ce-3e62cda87dd83348a3188fbfadf85295-1668373554-1668366354
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140851
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/64903
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
@@ -161,25 +160,24 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
 https://server100.online/eleven2/tracks-v1a1/mono.m3u8?token=77298591a5b9116a5a20eb3dcd4b6e7e0e337cd5-34dc05c3bc2f2dc8162ed84235e48405-1668373467-1668366267
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://cineapp.org:8000/Fernando/Fernando/7453
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140858
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55130
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140859
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140860
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 HD
-https://list.iptvcat.com/my_list/s/b1601908fd12b9a32244978260e73dd4.m3u8
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140863
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 6 HD
-http://cineapp.org:8000/Fernando/Fernando/7456
-
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140865
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 1 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43994
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140820
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70534
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140821
 
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
@@ -195,7 +193,7 @@ https://server100.online/nba/tracks-v1a1/mono.m3u8?token=dc9478caf0735f79eef59c5
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Canais Desportivos",CANAL 11 HD
-https://list.iptvcat.com/my_list/s/680b1b5e8b1361ad8278dc2a70177235.m3u8
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140912
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://tvepg.eu/img/germany/logo/motorvision_tv.png" group-title="Canais Desportivos",MOTORVISION
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/44049
