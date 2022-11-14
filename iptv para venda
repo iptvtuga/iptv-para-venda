@@ -183,6 +183,11 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Canais Desportivos",Combate
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140911
 
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",BeIN 
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/1
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",BeIN 
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/10
+
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 1
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149432
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 2
