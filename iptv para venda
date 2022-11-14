@@ -493,217 +493,6 @@ http://187.33.200.235:9000/hls/redemetropole.m3u8
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="BRASIL", Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23 ABC (KERO) (720p)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/CKCtZo7.png",30A Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/0j5Aget.png",30A The Beach Show
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 group-title="USA",3ABN KIDS TV (720p)
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/4ydVVIA.png",3ABN Latino (720p)
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png",3News Now (KMTV-TV) (720p)
-https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",7News Boston (WHDH) (540p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15 (720p)
-https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
-#EXTINF:-1 group-title="USA",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/j6XPh2U.png",AFV (720p)
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png",AMG TV (480p)
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VCfZB73.png",Al Horreya TV (1080p)
-http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 group-title="USA",Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ByPFQGp.png",Albany CBS 6 WRGB (720p)
-https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/0qwmBEm.png",Aliento Vision
-http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-AU.png",Alkarma TV Australia (1080p)
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Family.png",Alkarma TV Family (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-ME.png",Alkarma TV Middle East (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Praise.png",Alkarma TV Praise (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Talmaza.png",Alkarma TV Talmaza (Discipleship) (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/WUAXiq1.png",American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/JLkzt7v.jpg",American Horrors (480p)
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="USA",Amgtv
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/hSYez3V.png",Atlanta Channel (720p)
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png",BUTV10 (Boston University)
-http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg",Beach TV (30A) (720p)
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg",Beach TV (Csulb) (720P)
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png",Beach TV (Panama City) (720p)
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV (Pawleys Island) (720p)
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png",BlazeTV (720p)
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/CP05YX0.jpg",Buzzr (1080p)
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 group-title="USA",CBSN (720p)
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/PNrkhuf.jpg",CBSN Bay Area (720p)
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ubsNr5F.jpg",CBSN New York (720p)
-https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SC5nyyL.png",CCX1
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC-USA (1080p)
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 group-title="USA",CONtv (1080p)
-https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/cigpFzt.png",CSat TV
-http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Bj37ZMY.png",CTN (404p)
-http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Bj37ZMY.png",CTN
-https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/J1w8bAW.png",Christian Youth Channel (720p)
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png",Cloudflare TV
-https://cloudflare.tv/hls/live.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/wjCFvLR.png",Divine Vision (480p)
-https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
-#EXTINF:-1 group-title="USA",Dove Channel (1080p)
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png",Elbeshara Tv
-http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",FOX 28 Savannah GA (WTGS) (720p)
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png",Fail Army (720p)
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 group-title="USA",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/BDtkjpS.png",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ypQRBrH.png",Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/cQZdGc0.png",Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/hV46zMX.png",Folk TV (480p)
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="USA",Futurism (720p)
-https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.glendaleaz.com/images/City-Logo-Text.png",Glendale 11 (360p)
-https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/W4Bx9pG.jpg",Glewed TV (720p)
-https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/H2hD4vT.png",Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/uMPu5HU.png",Hi-Yah
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/IGN_Entertainment_Logo.svg/500px-IGN_Entertainment_Logo.svg.png",IGN (1080p)
-https://ign-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/MBsQp1e.png",Infowars
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pHJm3I0.png",JBS
-https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="USA",KBSV/AssyriaSat
-http://66.242.170.53/hls/live/temp/index.m3u8
-#EXTINF:-1 group-title="USA",KOMO News (KOMO-TV) (720p)
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 group-title="USA",KTLA 5 (720p)
-https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/FzxuNhl.png",KVVB-TV 33 (1080p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/fEjPBk3.png",Key TV (720p)
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/QbkW7zY.png",Las Vegas - 13 Action News (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SvY0iSk.jpg",Law & Crime (720p)
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/39NuAwl.png",Law And Crime Network (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",Leominster TV Educational (1080p)
-http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",Leominster TV Government (1080p)
-http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",Leominster TV Public (1080p)
-http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA",LifevisionTV (720p)
-https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Love Nature (1080p)
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/oIy673i.png",Magellan TV (720p)
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/iJldO7U.jpg",NASA TV (504p)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6",NASA TV Media (720p)
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6",NASA TV Public (720p)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/31cd86c/2147483647/strip/true/crop/600x200+0+0/resize/400x133/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F09%2F30%2F6709482a41ef96f6ba6259d6ae66%2Fwgba-geographic-locator-600x200.png",NBC 26 (WGBA) (720p)
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/qOO32m6.png",Nbc 15 Madison Wi (Wmtvnbc) (720P)
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tf3KGP4.jpg",New Orleans TV (720p)
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack",Newsmax (1080p)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg",Newsy (720p)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/QSH4Z4p.png",Nothing Scripted
-https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 group-title="USA",Nrbtv (480P)
-https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/G6e7Hcl.png",OANN One America News Network (720p)
-http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 group-title="USA",Orange TV (720p)
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/BYNg7Wk.png",Outdoor America (720p)
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ocMGZM6.png",PBS KET (720p)
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
-#EXTINF:-1 group-title="USA",PIX11 (New York) (720p)
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-#EXTINF:-1 group-title="USA",Pop
-http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/X63rCqD.png",Qello Concerts (1080p)
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/HFyrVaS.png",Radio Tele Boston (480p)
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/jb5NwNN.png",Shout Factory TV (1080p)
-https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg",Stadium (720p)
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/wVVGZl9.png",Stingray Karaoke (1080p)
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/7XsqSSZ.png",Stingray Naturescape (1080p)
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SAfy1us.png",Stirr City (720P)
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SAfy1us.png",Stirr Movies (720P)
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SAfy1us.png",Stirr Westerns (720P)
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Fbzbq1y.png",TBD (720p)
-
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="BRASIL", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
@@ -817,10 +606,6 @@ https://tkuniverse22.tk/9848626.mp4
 #EXTINF:0 tvg-country="PT" tvg-logo="https://images.pathe-thuis.nl/28571_450x640.jpg" group-title="filmes infantis PT",Encanto
 https://tkuniverse22.tk/2953050.mp4
 
-
-#EXTINF:0 tvg-country="PT" tvg-logo="http://cinemas.nos.pt/_layouts/15/Handlers/RenderImage.ashx?file=52777.jpg",Bigfoot em Família
-https://tkuniverse22.tk/9204164.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinema10.com.br/upload/filmes/filmes_15232_1.jpg" group-title="filmes infantis PT",De Volta a Casa 
 https://tkuniverse22.tk/13575806.mp4
 
@@ -886,153 +671,2583 @@ https://tkuniverse22.tk/10521144.mp4
 #EXTINF:0 tvg-country="PT" tvg-logo="https://media.fstatic.com/nESkOlNtjPO-BACgsU2Ur7Vm688=/210x312/smart/media/movies/covers/2021/08/AAAABSJpfiYrz0tn0UYrjdY_epzKe4Hok8gX5uQCncm_pi9BSrML79E-LrEGW9pjw6_OW358F4.jpg" group-title="filmes infantis PT",Loud em Casa- O Filme
 https://tkuniverse22.tk/6714432.mp4
 
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cineplayers.com/sites/default/files/posters/2021/07/nntut8at8dwk6ajr8jja.jpg" group-title="filmes infantis PT",Space Jam- Uma Nova Era
 https://tkuniverse22.tk/3554046.mp4
 
-#EXTINF:-1 tvg-name="Lucania Tv" tvg-logo="https://i.imgur.com/wuUNVR5.png" group-title="Italy",Lucania Tv
-https://cp1.server89.com:19360/lucaniatv/lucaniatv.m3u8
-#EXTINF:-1 tvg-name="Made in BO" tvg-logo="https://i.imgur.com/WFnrMS0.png" group-title="Italy",Made in BO
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Matrix Tv" tvg-logo="https://i.imgur.com/m1HeXrn.png" group-title="Italy",Matrix Tv
-https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8
-#EXTINF:-1 tvg-name="Media Tv" tvg-logo="https://i.imgur.com/WFiRWO9.png" group-title="Italy",Media Tv
-http://live.sloode.com:1935/mediatv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Mediterranea Tv" tvg-logo="https://i.imgur.com/GUTOqRt.png" group-title="Italy",Mediterranea Tv
-https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
-#EXTINF:-1 tvg-name="Medjugorje Italia Tv" tvg-logo="https://i.imgur.com/hkZScXf.png" group-title="Italy",Medjugorje Italia Tv
-https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Medjugorje Tv Puglia" tvg-logo="https://i.imgur.com/IWBeddh.png" group-title="Italy",Medjugorje Tv Puglia
-https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
-#EXTINF:-1 tvg-name="Minformo Tv" tvg-logo="https://i.imgur.com/VJNtnZM.jpg" group-title="Italy",Minformo Tv
-https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Motori Tv" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title="Italy",Motori Tv
-https://5f22d76e220e1.streamlock.net/primantenna/primantenna/playlist.m3u8
-#EXTINF:-1 tvg-name="NSL" tvg-logo="https://i.imgur.com/5W6vRaf.png" group-title="Italy",NSL
-https://streannlivensl.cachefly.net/nsl1/nsl1/playlist.m3u8
-#EXTINF:-1 tvg-name="NTI Canale 271" tvg-logo="https://i.imgur.com/zlmcUe0.jpg" group-title="Italy",NTI Canale 271
-https://www.ntimedia.it/video/S0B/S0B_master.m3u8
-#EXTINF:-1 tvg-name="New Signal Tv Genova" tvg-logo="https://i.imgur.com/5uGTCJn.png" group-title="Italy",New Signal Tv Genova
-https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Nuova TV Nazionale" tvg-logo="https://i.imgur.com/QWlRuXg.png" group-title="Italy",Nuova TV Nazionale
-https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Nuova Tv 1" tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="Italy",Nuova Tv 1
-https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1 tvg-name="Nuova Tv 2" tvg-logo="https://i.imgur.com/0vauyV3.png" group-title="Italy",Nuova Tv 2
-https://nuovatv.net:8443/tv2/stream.m3u8
-#EXTINF:-1 tvg-name="Nuvola Tv" tvg-logo="https://i.imgur.com/EDGez2x.png" group-title="Italy",Nuvola Tv
-https://604e46ac2bdee.streamlock.net:1936/nuvolatv4/nuvolatv4/playlist.m3u8
-#EXTINF:-1 tvg-name="Ofanto Tv" tvg-logo="https://i.imgur.com/UCgATWn.png" group-title="Italy",Ofanto Tv
-https://videostream.isgm.it:3276/live/tvofantolive.m3u8
-#EXTINF:-1 tvg-name="Onda Novara Tv" tvg-logo="https://i.imgur.com/Qoh9CFy.png" group-title="Italy",Onda Novara Tv
-https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
-#EXTINF:-1 tvg-name="Onda Tv Sicilia" tvg-logo="https://i.imgur.com/0c5Y6lr.png" group-title="Italy",Onda Tv Sicilia
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
-#EXTINF:-1 tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" group-title="Italy",Onda Web Radio
-http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
-#EXTINF:-1 tvg-name="One Tv E.R." tvg-logo="https://i.imgur.com/iAg0Kjl.png" group-title="Italy",One Tv E.R.
-https://5db313b643fd8.streamlock.net:443/OneTvEmilia/OneTvEmilia/playlist.m3u8
-#EXTINF:-1 tvg-name="Ora Tv" tvg-logo="https://i.imgur.com/clWVrvE.png" group-title="Italy",Ora Tv
-https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Orler Tv" tvg-logo="https://i.imgur.com/dBkxD8e.png" group-title="Italy",Orler Tv
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Padre Pio Tv" tvg-logo="https://i.imgur.com/7ajxEPH.png" group-title="Italy",Padre Pio Tv
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV2 Charlie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130357
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 2 FRI
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130358
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV2 NEWS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130359
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV2 Sport
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130360
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130361
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130362
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV3+ HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130363
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 3 Puls
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130364
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 3 SPORT HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130365
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV3 MAX
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130366
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ DK 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130367
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Kanal 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130368
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Kanal 5
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130369
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ 6 Eren
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130370
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Canal 9
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130371
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Eurosport
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130372
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Eurosport 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130373
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Paramount Network
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130374
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TLC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130375
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV2 Lorry
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130376
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV2 Bornholm
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130377
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV2 Øst
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130378
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 2 Fyn
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130379
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 2 Midt-Vest
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130380
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 2 Nord
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130381
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 2 Østjylland
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130382
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV 2 Syd
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130383
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ KKR TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130384
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ C More Hits HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130385
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ C More First HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130386
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ C More Series HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130387
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Film Action
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130388
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Film Hits
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130389
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Film Premiere
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130390
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Series
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130391
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Hockey
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130392
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Sport Premium
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130393
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ MTV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130394
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Boomerang
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130395
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Disney Channel Nordic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130396
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Nickelodeon Denmark
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130397
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Cartoon Network
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130398
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Disney Junior
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130399
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Disney Jr
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130400
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Nick JR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130401
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ NickToons
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130402
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ BBC EARTH
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130403
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ BBC BRITH
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130404
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Discovery Science
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130405
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Nat Geo Wild
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130406
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Nat Geo Wild FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130407
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ National Geographic Denmark
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130408
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Investigation Discovery Denmark
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130409
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Animal Planet HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130410
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Discovery Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130411
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ History HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130412
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Explore
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130413
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ H2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130414
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ ID Investigation Discovery
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130415
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Film Family [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130416
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ Viasat Nature
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130417
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK/ TV2 SPORT X
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/130418
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: VMotor HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128475
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: VNature FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128476
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: VFilm Premiere FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128477
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: MTV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128478
+#EXTINF:0 tvg-id="DisneyChannel.dk" group-title="Channels",DK: Disney Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128479
+#EXTINF:0 tvg-id="ViasatFamily.dk" group-title="Channels",DK: VFilm Family
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128480
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: VFilm Family HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128481
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: VFilm Action HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128482
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: VFilm Premiere HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128483
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV6 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128484
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128485
+#EXTINF:0 tvg-id="TV2fri.dk" group-title="Channels",DK: TV2 FRI
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128486
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: National Geographic HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128487
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: DR2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128488
+#EXTINF:0 tvg-id="AnimalPlanet.dk" group-title="Channels",DK: Animal Planet FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128489
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Cartoon Network HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128490
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: C More Live 3 HD SE
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128491
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Nickelodeon
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128492
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: C More Stars FHD [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128493
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: C More Series FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128494
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Nat Geo Wild HD [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128495
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Discovery Science
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128496
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128497
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128498
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV2 Bornholm HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128499
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV2 Nord
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128500
+#EXTINF:0 tvg-id="dk4.dk" group-title="Channels",DK: DK 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128501
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Investigation Discovery
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128502
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Discovery Investigation
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128503
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Canal 9 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128504
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TLC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128505
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: C More Fotboll
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128506
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV3+ HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128507
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV3 FHD VIP
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128508
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV2 Zulu FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128509
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Discovery Channel HD VIP
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128510
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV2 Lorry HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128511
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV3 Puls FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128512
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV2 News HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128513
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: 6 Eren HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128514
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Kanal 5 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128515
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: Kanal 4 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128516
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: TV3 Max FHD VIP
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128517
+#EXTINF:0 tvg-id="ext" group-title="Channels",DK: DR 1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128518
+#EXTINF:0 tvg-id="Kanal11.se" group-title="Channels",SE: Kanal 11 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128519
+#EXTINF:0 tvg-id="Kanal9.se" group-title="Channels",SE: Kanal 9 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128520
+#EXTINF:0 tvg-id="Kanal5.se" group-title="Channels",SE: Kanal 5 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128521
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: DR2 HD DK
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128522
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: DR 1 HD DK
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128523
+#EXTINF:0 tvg-id="CMoreStars.se" group-title="Channels",SE: C More Stars FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128524
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: C Moreries FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128525
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: VFilm Action HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128526
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: VSeries HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128527
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: VSport Motor HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128528
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: VFilm Hits HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128529
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: TV12 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128530
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: TV6 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128531
+#EXTINF:0 tvg-id="TV4.se" group-title="Channels",SE: TV4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128532
+#EXTINF:0 tvg-id="TV3.se" group-title="Channels",SE: TV3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128533
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: TV12 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128534
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: SVT2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128535
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: SVT1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128536
+#EXTINF:0 tvg-id="Kanal9.se" group-title="Channels",SE: Kanal 9 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128537
+#EXTINF:0 tvg-id="DiscoveryChannel.se" group-title="Channels",SE: Discovery Channel HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128538
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: C Moreries HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128539
+#EXTINF:0 tvg-id="CMoreLive.se" group-title="Channels",SE: C More Live HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128540
+#EXTINF:0 tvg-id="CMoreHits.se" group-title="Channels",SE: C More Hits HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128541
+#EXTINF:0 tvg-id="CMoreFirst.se" group-title="Channels",SE: C More First HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128542
+#EXTINF:0 tvg-id="BBCBrit.se" group-title="Channels",SE: BBC Brit FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128543
+#EXTINF:0 tvg-id="TV3.se" group-title="Channels",SE: TV3 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128544
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: TV10 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128545
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: National Geo Wild FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128546
+#EXTINF:0 tvg-id="CMoreLive.se" group-title="Channels",SE: C More Live FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128547
+#EXTINF:0 tvg-id="CMoreFirst.se" group-title="Channels",SE: C More First FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128548
+#EXTINF:0 tvg-id="CMoreStars.se" group-title="Channels",SE: C More Stars HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128549
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: VSport Football HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128550
+#EXTINF:0 tvg-id="AnimalPlanet.se" group-title="Channels",SE: Animal Planet HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128551
+#EXTINF:0 tvg-id="AnimalPlanet.se" group-title="Channels",SE: Animal Planet FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128552
+#EXTINF:0 tvg-id="TLCsverige.se" group-title="Channels",SE: TLC HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128553
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: History2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128554
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: TV8 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128555
+#EXTINF:0 tvg-id="TV6.se" group-title="Channels",SE: TV6
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128556
+#EXTINF:0 tvg-id="TV4.se" group-title="Channels",SE: TV4 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128557
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: BBC Earth FHD [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128558
+#EXTINF:0 tvg-id="NatGeoHD.dk" group-title="Channels",SE: National Geographic FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128559
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: C More Hits HD [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128560
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: C More First FHD [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128561
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: C Moreries FHD [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128562
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: C More Stars FHD [Multi-Sub]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128563
+#EXTINF:0 tvg-id="ext" group-title="Channels",SE: VSeries HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128564
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More MAX FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147640
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More Sport 1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147641
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Disney Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147642
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Disney XD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147643
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147644
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Nelonen HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147645
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7 Finland
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147646
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147647
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7 OTSE
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147648
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Yle 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147649
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Yle 2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147650
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: YLE TV 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147651
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Jim HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147652
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147653
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Nelonen Prime
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147654
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More First FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147655
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More Hits HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147656
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More MAX FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147657
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Yle TV 1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147658
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: BBC EARTH HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147659
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: BBC BRIT FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147660
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: NELONEN 4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147661
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV 7 EESTI
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147662
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV 7 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147663
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV 7 NEWS HEAVEN
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147664
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: YLE TEEMA FEM HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147665
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: ENGLISH CLUB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147666
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: FEM HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147667
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: FRII
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147668
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: JIM HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147669
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: LIV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147670
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: N4 ICELAND HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147671
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: SF-KANALEN HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147672
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: SUB HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147673
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV 7 HIMLEN HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147674
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: YLE TV 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147675
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: YLE TV2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147676
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: YLE TV2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147677
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: EUROSPORT 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147678
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: EUROSPORT 2  [MULTI-AUDIO]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147679
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MOTORVISION TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147680
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: GINX ESPORTS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147681
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE SPORT 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147682
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE SPORT 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147683
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE SPORT 1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147684
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE SPORT 2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147685
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE MAX HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147686
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE MAX 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147687
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT HOCKEY HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147688
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT SPORT PREMIUM HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147689
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT SPORT FOOTBALL HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147690
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT SPORT FHD  [MULTI-AUDIO]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147691
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT SPORT GOLF HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147692
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT SPORT J HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147693
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: ANIMAL PLANET HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147694
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: DISCOVERY CHANNEL HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147695
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: DISCOVERY SCIENCE HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147696
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: DISCOVERY WORLD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147697
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: INVESTIGATION DISCOVERY HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147698
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: HISTORY HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147699
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: H2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147700
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: NATIONAL GEOGRAPHIC HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147701
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: NATIONAL GEOGRAPHIC  WILD HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147702
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT EXPLORE HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147703
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT HISTORY HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147704
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT NATURE HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147705
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT JAAKIEKKO HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147706
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT JALKAPALLO HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147707
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT URHEILU HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147708
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: CARTOON NETWORK HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147709
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: DISNEY JUNIOR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147710
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: DISNEY XD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147711
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: DISNEY CHANNEL HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147712
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: BOOMERANG HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147713
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: NICKELODEON HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147714
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: NICK JR HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147715
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: NICKTOONS HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147716
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: FOX HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147717
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE JUNIORI HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147718
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE FIRST FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147719
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE HITS FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147720
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE SERIES FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147721
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C MORE STARS FHD  [MULTI-SUB]
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147722
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT FILM ACTION HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147723
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT FILM HITS HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147724
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT FILM FAMILY HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147725
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT FILM PREMIERE HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147726
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VIASAT SERIES FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147727
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147728
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV 80'S HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147729
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV 3 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147730
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: VH1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147731
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More First HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140279
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More Hits HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140280
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More Juniori
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140281
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More Series HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140282
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Viasat Film Premiere
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140283
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Viasat Series
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140284
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Yle TV1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140285
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Yle TV2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140286
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: H2 Finland
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140287
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140288
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV3 (Backup)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140289
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Nelonen
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140290
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: C More Max HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140291
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Jim TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140292
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140293
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7 Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140294
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV 7 News Heaven
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140295
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV 7 EESTI
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140296
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Discovery World
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140297
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Discovery (F)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140298
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Nick Jr.
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140299
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Disney Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140300
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Disney Junior
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140301
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7 Himlen
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128565
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV& EESTI
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128566
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128567
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Discovery Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128568
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Yle Teema Fem FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128569
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: YLE 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128570
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128571
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: MTV3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128572
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: Nelonen
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128573
+#EXTINF:0 tvg-id="ext" group-title="Channels",FI: TV7 Plus HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128574
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: VOX FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128575
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: NRK 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128576
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: NRK 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128577
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: Max HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128578
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: TV3rge
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128579
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: Fem HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128580
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: TV 6rge
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128581
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: TV2 Livsstil
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128582
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: Kanal 10rge
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128583
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: NRK 3/Super HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128584
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: TV2rge
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128585
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: TVrge HD VIP
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128586
+#EXTINF:0 tvg-id="ext" group-title="Channels",FO: Maxrway FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128587
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: France 5 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124092
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: France 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124093
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",FR: TF1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85190
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF +1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85191
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: France 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85194
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",FR: France O HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85197
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV2I DK
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85202
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV 5 Monde
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85204
+#EXTINF:0 tvg-id="RTSUn.ch" group-title="Channels",FR: RTS Un HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85206
+#EXTINF:0 tvg-id="RTSDeux.ch" group-title="Channels",FR: RTS Deux
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85207
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6Ter HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85209
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Alsace 20
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85210
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",FR: C8 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85211
+#EXTINF:0 tvg-id="LCP.fr" group-title="Channels",FR: LCP
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85212
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: La Une HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85213
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",FR: Téva HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85216
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",FR: Teva
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85217
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Vosges Télévision HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85218
+#EXTINF:0 tvg-id="OLTV.fr" group-title="Channels",FR: OL TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85219
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Story HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85230
+#EXTINF:0 tvg-id="EquidiaLife.fr" group-title="Channels",FR: Equidia Life HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85253
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",FR: Equidia Live
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85254
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Equipe HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85255
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Channels",FR: Equipe 21 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85256
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",FR: Foot+ 24
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85257
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: France 24 News
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85263
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: France 24 English
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85264
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: France 24 English
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85265
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",FR: France Info
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85266
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RTance HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85267
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Euronews HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85268
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",FR: CNews HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85269
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",FR: Cnews HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85270
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: i24News
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85271
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",FR: BFM Business
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85272
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",FR: LCi HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85274
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",FR: Game One
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85279
+#EXTINF:0 tvg-id="Trek.fr" group-title="Channels",FR: Trek
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85282
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",FR: Gulli
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85283
+#EXTINF:0 tvg-id="NT1.fr" group-title="Channels",FR: NT1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85284
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",FR: Syfy HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85287
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",FR: TCM FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85289
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",FR: NRJ 12 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85290
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",FR: AB1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85291
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",FR: Action
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85295
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="Channels",FR: OCS Choc HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85298
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="Channels",FR: OCS City HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85300
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="Channels",FR: OCS Geants HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85302
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="Channels",FR: OCS Max HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85304
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Altice Studio HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85305
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",FR: Canal+ HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85307
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",FR: Canal+ Family HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85309
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",FR: Canal+ Cinema HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85310
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",FR: Canal+ Series HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85312
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",FR: Canal Decale HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85314
+#EXTINF:0 tvg-id="CineFX.fr" group-title="Channels",FR: Cine FX HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85315
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",FR: Cine Classic HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85316
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Cine+isson HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85318
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",FR: Cine Famiz
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85323
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",FR: TCM Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85327
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",FR: Serie Club
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85329
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Warner TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85333
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",FR: 13Eme Rue HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85335
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",FR: Paris Premiere FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85336
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Novelas TV FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85339
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Orange Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85348
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Orange Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85349
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Orange Cinema Action HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85350
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Orange Cinema Aventure
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85351
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Orange Cinema CEst Fait
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85352
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",FR: Crime District HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85353
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",FR: Discovery FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85354
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",FR: Discovery HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85355
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Discovery Investigation FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85356
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",FR: Discovery Science FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85357
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Discovery Family FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85358
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",FR: National Geographic FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85359
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",FR: National Geographic HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85360
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",FR: National Geographic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85361
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="Channels",FR: Nat Geo Wild FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85362
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="Channels",FR: Nat Geo Wild HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85363
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Toute l'Histoire FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85364
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Channels",FR: RMC Decouverte FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85365
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",FR: Planete A&E HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85366
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="Channels",FR: Planete+ FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85367
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="Channels",FR: Planete+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85368
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",FR: Arte FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85369
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",FR: Arte HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85370
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Luxe TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85371
+#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",FR: Animaux
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85373
+#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",FR: Histoire FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85374
+#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",FR: Histoire
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85375
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Toute L Historie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85376
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",FR: Science et Vie FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85377
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",FR: Science et Vie HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85378
+#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",FR: Season FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85379
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Planete Plus CI FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85382
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Chasse E Peche HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85384
+#EXTINF:0 tvg-id="KTO.fr" group-title="Channels",FR: KTO
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85386
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: My Cuisine FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85387
+#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",FR: Seasons HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85388
+#EXTINF:0 tvg-id="Voyage.fr" group-title="Channels",FR: Voyage TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85389
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Viceland FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85390
+#EXTINF:0 tvg-id="Boing.fr" group-title="Channels",FR: Boing HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85391
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",FR: Boomerang HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85392
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",FR: Canal J HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85393
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",FR: Gulli FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85394
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="Channels",FR: Cartoon Network FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85395
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="Channels",FR: Cartoon Network
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85396
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="Channels",FR: Disney Channel FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85397
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Disney Channel +1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85398
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",FR: Disney Cinema FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85399
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",FR: Disney Cinema HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85400
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",FR: Disney Junior FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85401
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",FR: Disney Junior HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85402
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",FR: Disney XD FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85403
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",FR: Disney XD HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85404
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",FR: Mangas HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85405
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",FR: Nickelodeon HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85406
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Nickelodeon +1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85407
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Nickelodeon 4 Teen FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85408
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",FR: Nickelodeon FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85409
+#EXTINF:0 tvg-id="NickJr.fr" group-title="Channels",FR: Nickelodeon Junior
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85410
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",FR: Piwi HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85411
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",FR: Piwi+ FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85412
+#EXTINF:0 tvg-id="Tiji.fr" group-title="Channels",FR: Tiji HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85413
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Toonami FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85414
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",FR: TeleToon+ FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85415
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",FR: TeleToon+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85416
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",FR: Mangas
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85417
+#EXTINF:0 tvg-id="JOne.fr" group-title="Channels",FR: J-One HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85418
+#EXTINF:0 tvg-id="HRT1.hr" group-title="Channels",EX-YU: HRT 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149582
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: HRT 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149583
+#EXTINF:0 tvg-id="HRT2.hr" group-title="Channels",EX-YU: HRT 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149584
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: HRT 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149585
+#EXTINF:0 tvg-id="HRT3.hr" group-title="Channels",EX-YU: HRT 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149586
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: HRT 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149587
+#EXTINF:0 tvg-id="HRT4.hr" group-title="Channels",EX-YU: HRT 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149588
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: HRT 4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149589
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: HRT Int.
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149590
+#EXTINF:0 tvg-id="RTSTrezor.rs" group-title="Channels",EX-YU: RTS Trezor
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149591
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: RTS Svet
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149592
+#EXTINF:0 tvg-id="RTSKolo.rs" group-title="Channels",EX-YU: RTS Kolo
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149593
+#EXTINF:0 tvg-id="RTSDrama.rs" group-title="Channels",EX-YU: RTS Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149594
+#EXTINF:0 tvg-id="RTSZivot.rs" group-title="Channels",EX-YU: RTS Zivot
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149595
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",EX-YU: RTS 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149596
+#EXTINF:0 tvg-id="RTS1Srbija.svn" group-title="Channels",EX-YU: RTS 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149597
+#EXTINF:0 tvg-id="RTS2.rs" group-title="Channels",EX-YU: RTS 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149598
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: RTS 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149599
+#EXTINF:0 tvg-id="RTLKockica.hr" group-title="Channels",EX-YU: RTL Kockica
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149600
+#EXTINF:0 tvg-id="RTLLiving.hr" group-title="Channels",EX-YU: RTL Living
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149601
+#EXTINF:0 tvg-id="rtl2.hr" group-title="Channels",EX-YU: RTL 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149602
+#EXTINF:0 tvg-id="RTL.hr" group-title="Channels",EX-YU: RTL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149603
+#EXTINF:0 tvg-id="RTS3.rs" group-title="Channels",EX-YU: RTS 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149604
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Nova M
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149605
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Nova TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149606
+#EXTINF:0 tvg-id="NovaTV.hr" group-title="Channels",EX-YU: Nova TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149607
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Nova S
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149608
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Nova BH
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149609
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: NBA TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149610
+#EXTINF:0 tvg-id="FightChannel.svn" group-title="Channels",EX-YU: Fight Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149611
+#EXTINF:0 tvg-id="Eurosport1.hr" group-title="Channels",EX-YU: EuroSport 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149612
+#EXTINF:0 tvg-id="Eurosport2.rs" group-title="Channels",EX-YU: EuroSport 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149613
+#EXTINF:0 tvg-id="Sportklub1.svn" group-title="Channels",EX-YU: Sport Klub 1 SLO
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149614
+#EXTINF:0 tvg-id="Sportklub2.svn" group-title="Channels",EX-YU: Sport Klub 2 SLO
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149615
+#EXTINF:0 tvg-id="Sportklub3.svn" group-title="Channels",EX-YU: Sport Klub 3 SLO
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149616
+#EXTINF:0 tvg-id="SportKlub1.rs" group-title="Channels",EX-YU: Sport Klub 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149617
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="Channels",EX-YU: Sport Klub 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149618
+#EXTINF:0 tvg-id="SportKlub3.rs" group-title="Channels",EX-YU: Sport Klub 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149619
+#EXTINF:0 tvg-id="SportKlub1.hr" group-title="Channels",EX-YU: Sport Klub 1 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149620
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="Channels",EX-YU: Sport Klub 2 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149621
+#EXTINF:0 tvg-id="SportKlub3.hr" group-title="Channels",EX-YU: Sport Klub 3 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149622
+#EXTINF:0 tvg-id="SportKlub4.rs" group-title="Channels",EX-YU: Sport Klub 4 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149623
+#EXTINF:0 tvg-id="SportKlub5.rs" group-title="Channels",EX-YU: Sport Klub 5 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149624
+#EXTINF:0 tvg-id="SportKlub6.rs" group-title="Channels",EX-YU: Sport Klub 6 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149625
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sport Klub 7 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149626
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sport Klub 8 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149627
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sport Klub 9 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149628
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sport Klub 10 SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149629
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Arena Sport 1 HD SRB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149630
+#EXTINF:0 tvg-id="ArenaSport1.rs" group-title="Channels",EX-YU: Arena Sport 1 SRB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149631
+#EXTINF:0 tvg-id="ArenaSport2.rs" group-title="Channels",EX-YU: Arena Sport 2 SRB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149632
+#EXTINF:0 tvg-id="ArenaSport3.rs" group-title="Channels",EX-YU: Arena Sport 3 SRB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149633
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="Channels",EX-YU: Arena Sport 4 SRB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149634
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Channels",EX-YU: Arena Sport 5 SRB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149635
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",EX-YU: Arena Sport 1 HR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149636
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Channels",EX-YU: Arena Sport 2 HR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149637
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="Channels",EX-YU: Arena Sport 3 HR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149638
+#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="Channels",EX-YU: Arena Sport 4 HR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149639
+#EXTINF:0 tvg-id="ArenaSport5.hr" group-title="Channels",EX-YU: Arena Sport 5 HR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149640
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Glas Izvorno HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149641
+#EXTINF:0 tvg-id="AMC.hr" group-title="Channels",EX-YU: AMC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149642
+#EXTINF:0 tvg-id="Fox.hr" group-title="Channels",EX-YU: FOX
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149643
+#EXTINF:0 tvg-id="FOXLife.hr" group-title="Channels",EX-YU: Fox Life
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149644
+#EXTINF:0 tvg-id="FOXCrime.hr" group-title="Channels",EX-YU: Fox Crime
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149645
+#EXTINF:0 tvg-id="FoxMovies.hr" group-title="Channels",EX-YU: Fox Movies
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149646
+#EXTINF:0 tvg-id="FilmBoxPlus.hr" group-title="Channels",EX-YU: Filmbox Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149647
+#EXTINF:0 tvg-id="FilmBoxExtra.rs" group-title="Channels",EX-YU: Filmbox Extra
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149648
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: M1 Film HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149649
+#EXTINF:0 tvg-id="CinestarPremiere1.hr" group-title="Channels",EX-YU: Cinestar Premiere 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149650
+#EXTINF:0 tvg-id="CinestarAction.hr" group-title="Channels",EX-YU: Cinestar Tv Action
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149651
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Cinestar TV 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149652
+#EXTINF:0 tvg-id="Cinemax1.hr" group-title="Channels",EX-YU: Cinemax 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149653
+#EXTINF:0 tvg-id="Cinemax2.hr" group-title="Channels",EX-YU: Cinemax 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149654
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Glas Film HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149655
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Glas Western HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149656
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Glas Adventure HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149657
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Glas Mystery HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149658
+#EXTINF:0 tvg-id="Cinemania.hr" group-title="Channels",EX-YU: Cinemania
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149659
+#EXTINF:0 tvg-id="HBO3.rs" group-title="Channels",EX-YU: HBO 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149660
+#EXTINF:0 tvg-id="HBO2.rs" group-title="Channels",EX-YU: HBO 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149661
+#EXTINF:0 tvg-id="HBO.svn" group-title="Channels",EX-YU: HBO
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149662
+#EXTINF:0 tvg-id="AXNSpin.hr" group-title="Channels",EX-YU: AXN Spin
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149663
+#EXTINF:0 tvg-id="AXN.hr" group-title="Channels",EX-YU: AXN
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149664
+#EXTINF:0 tvg-id="RTLPassion.hr" group-title="Channels",EX-YU: RTL Passion
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149665
+#EXTINF:0 tvg-id="RTLCrime.hr" group-title="Channels",EX-YU: RTL Crime
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149666
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Discovery DTX
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149667
+#EXTINF:0 tvg-id="ViasatExplorer.hr" group-title="Channels",EX-YU: Viasat Explorer
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149668
+#EXTINF:0 tvg-id="ViasatHistory.hr" group-title="Channels",EX-YU: Viasat History
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149669
+#EXTINF:0 tvg-id="ViasatNature.hr" group-title="Channels",EX-YU: Viasat Nature
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149670
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Disovery ID Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149671
+#EXTINF:0 tvg-id="Discovery.hr" group-title="Channels",EX-YU: Discovery Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149672
+#EXTINF:0 tvg-id="AnimalPlanet.hr" group-title="Channels",EX-YU: Animal Planet
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149673
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: History Channel 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149674
+#EXTINF:0 tvg-id="History.hr" group-title="Channels",EX-YU: History Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149675
+#EXTINF:0 tvg-id="NGCwild.svn" group-title="Channels",EX-YU: National Geographic Wild
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149676
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: National Geographic Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149677
+#EXTINF:0 tvg-id="E.hr" group-title="Channels",EX-YU: E! Entertainment
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149678
+#EXTINF:0 tvg-id="CI.rs" group-title="Channels",EX-YU: Crime & Investigation
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149679
+#EXTINF:0 tvg-id="24Kitchen.rs" group-title="Channels",EX-YU: 24 Kitchen
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149680
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: PikaBoo
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149681
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Baby
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149682
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Mini
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149683
+#EXTINF:0 tvg-id="Minimax.hr" group-title="Channels",EX-YU: Minimax
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149684
+#EXTINF:0 tvg-id="PinkSuperKids.rs" group-title="Channels",EX-YU: Super Kids
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149685
+#EXTINF:0 tvg-id="NickJR.hr" group-title="Channels",EX-YU: Nick JR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149686
+#EXTINF:0 tvg-id="Nickelodeon.hr" group-title="Channels",EX-YU: Nickelodeon
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149687
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Bomerang
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149688
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Tom and Jerry Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149689
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Trend TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149690
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Pruga TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149691
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Hram TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149692
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Telegraf TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149693
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sehara TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149694
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: RTV Vojvodina 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149695
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: SOS Kanal Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149696
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Glas Pcelica Maja
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149697
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Super TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149698
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: HNTV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149699
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: SandzackaTV Mreza
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149700
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Sandak
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149701
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV 777 Podgorica
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149702
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Vijesti CG
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149703
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: RTCG 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149704
+#EXTINF:0 tvg-id="RTVMONTENEGROSat.rs" group-title="Channels",EX-YU: RTCG 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149705
+#EXTINF:0 tvg-id="RTVMONTENEGROSat.rs" group-title="Channels",EX-YU: RTCG Sat
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149706
+#EXTINF:0 tvg-id="VH1Classic.svn" group-title="Channels",EX-YU: VH1 CLASSIC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149707
+#EXTINF:0 tvg-id="VH1.hr" group-title="Channels",EX-YU: VH1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149708
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: IDJTV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149709
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: MTV CLASSIC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149710
+#EXTINF:0 tvg-id="MTVDance.svn" group-title="Channels",EX-YU: MTV DANCE
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149711
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: MTV MUSIC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149712
+#EXTINF:0 tvg-id="MTVRocks.svn" group-title="Channels",EX-YU: MTV ROCKS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149713
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: MTV BASE
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149714
+#EXTINF:0 tvg-id="MTVHD.svn" group-title="Channels",EX-YU: MTV HITS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149715
+#EXTINF:0 tvg-id="MTV.svn" group-title="Channels",EX-YU: MTV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149716
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sevdah TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149717
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Yu Planet
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149718
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Top Sound
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149719
+#EXTINF:0 tvg-id="OTVValentino.ba" group-title="Channels",EX-YU: OTV Valentino
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149720
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Jugoton
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149721
+#EXTINF:0 tvg-id="DMSAT.rs" group-title="Channels",EX-YU: DM Sat
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149722
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Grand 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149723
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Grand
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149724
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Duga +
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149725
+#EXTINF:0 tvg-id="KCN3.rs" group-title="Channels",EX-YU: KCN 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149726
+#EXTINF:0 tvg-id="KCN2.rs" group-title="Channels",EX-YU: KCN 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149727
+#EXTINF:0 tvg-id="KCN1.rs" group-title="Channels",EX-YU: KCN 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149728
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Reality Zadruga 24 h
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149729
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Happy Parovi 24 h
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149730
+#EXTINF:0 tvg-id="HappyTV.hr" group-title="Channels",EX-YU: Happy TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149731
+#EXTINF:0 tvg-id="KlasikTV.hr" group-title="Channels",EX-YU: Klasik TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149732
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Istok TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149733
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Prva World
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149734
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Prva Kick
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149735
+#EXTINF:0 tvg-id="PrvaMAX.rs" group-title="Channels",EX-YU: Prva Max
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149736
+#EXTINF:0 tvg-id="PrvaPlus.rs" group-title="Channels",EX-YU: Prva Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149737
+#EXTINF:0 tvg-id="Prva.rs" group-title="Channels",EX-YU: Prva
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149738
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Novi Pazar
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149739
+#EXTINF:0 tvg-id="B92.rs" group-title="Channels",EX-YU: B92
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149740
+#EXTINF:0 tvg-id="Z1.hr" group-title="Channels",EX-YU: Z1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149741
+#EXTINF:0 tvg-id="CMC.hr" group-title="Channels",EX-YU: CmC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149742
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Doma TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149743
+#EXTINF:0 tvg-id="DomaTV.hr" group-title="Channels",EX-YU: Doma TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149744
+#EXTINF:0 tvg-id="ext" group-title="Channels",EY-YU: Diva Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149745
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Kanal Rijeka
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149746
+#EXTINF:0 tvg-id="TVIstra.hr" group-title="Channels",EX-YU: TV Istra
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149747
+#EXTINF:0 tvg-id="TVJadran.hr" group-title="Channels",EX-YU: Tv Jadran
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149748
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Jabuka
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149749
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Srce
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149750
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Slavonsko Brodska TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149751
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Poljoprivredna
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149752
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Varaždinska
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149753
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Tv Osjecka
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149754
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Banovina
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149755
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Slavonska
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149756
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Vinkovacka
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149757
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: 101 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149758
+#EXTINF:0 tvg-id="BNMusic.ba" group-title="Channels",EX-YU: BN Music
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149759
+#EXTINF:0 tvg-id="bn-sat.ba" group-title="Channels",EX-YU: BN BIH
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149760
+#EXTINF:0 tvg-id="OBN.hr" group-title="Channels",EX-YU: OBN
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149761
+#EXTINF:0 tvg-id="RTRSPlus.ba" group-title="Channels",EX-YU: RTRS Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149762
+#EXTINF:0 tvg-id="RTRS.ba" group-title="Channels",EX-YU: RTRS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149763
+#EXTINF:0 tvg-id="ATV.ba" group-title="Channels",EX-YU: ATV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149764
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: N1 SR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149765
+#EXTINF:0 tvg-id="N1Croatia.hr" group-title="Channels",EX-YU: N1 HR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149766
+#EXTINF:0 tvg-id="N1Croatia.hr" group-title="Channels",EX-YU: N1 BIH
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149767
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: O Kanal HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149768
+#EXTINF:0 tvg-id="AlJazeeraBalkans.hr" group-title="Channels",EX-YU: Aljazeera Balkans
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149769
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Glas Drine
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149770
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Izvorna TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149771
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Aurora TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149772
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Hema Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149773
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Slon Extra
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149774
+#EXTINF:0 tvg-id="facetv.ba" group-title="Channels",EX-YU: Face TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149775
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: HIT Brcko TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149776
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: City TV Mostar
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149777
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV 5 Islam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149778
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Islam Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149779
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Dobra Islamska
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149780
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: RTV Islam HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149781
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Makkah TV Live
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149782
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Herceg Bosna
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149783
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Posavina
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149784
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Igman
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149785
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TK Tuzla
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149786
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: RTV Zenica
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149787
+#EXTINF:0 tvg-id="alfatv.ba" group-title="Channels",EX-YU: Alfa TV Sarajevo
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149788
+#EXTINF:0 tvg-id="TVSarajevo.svn" group-title="Channels",EX-YU: TV Sarajevo
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149789
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV USK
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149790
+#EXTINF:0 tvg-id="Hayatovci.ba" group-title="Channels",EX-YU: Hayatovci
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149791
+#EXTINF:0 tvg-id="HayatMusic.ba" group-title="Channels",EX-YU: Hayat Music
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149792
+#EXTINF:0 tvg-id="hayat-plus.ba" group-title="Channels",EX-YU: Hayat Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149793
+#EXTINF:0 tvg-id="HayatFolk.ba" group-title="Channels",EX-YU: Hayat Folk
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149794
+#EXTINF:0 tvg-id="HAYATTVBIH.hr" group-title="Channels",EX-YU: Hayat HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149795
+#EXTINF:0 tvg-id="FederalnaTV.svn" group-title="Channels",EX-YU: Federalna TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149796
+#EXTINF:0 tvg-id="BHT1.svn" group-title="Channels",EX-YU: BHT 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149797
+#EXTINF:0 tvg-id="EPICDramaHD.svn" group-title="Channels",EX-YU: Epic Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149798
+#EXTINF:0 tvg-id="DocuBox.svn" group-title="Channels",EX-YU: DocuBox
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149799
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: PickBox TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149800
+#EXTINF:0 tvg-id="TV1000.svn" group-title="Channels",EX-YU: TV 1000
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149801
+#EXTINF:0 tvg-id="LoviRibolov.rs" group-title="Channels",EX-YU: Lov i Ribolov
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149802
+#EXTINF:0 tvg-id="TLC.hr" group-title="Channels",EX-YU: TLC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149803
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Veseljak HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149804
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Maribor HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149805
+#EXTINF:0 tvg-id="POPKino.svn" group-title="Channels",EX-YU: Pop Kino HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149806
+#EXTINF:0 tvg-id="POPBrio.svn" group-title="Channels",EX-YU: Pop Brio HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149807
+#EXTINF:0 tvg-id="POPOto.svn" group-title="Channels",EX-YU: Pop Oto HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149808
+#EXTINF:0 tvg-id="PopTV.svn" group-title="Channels",EX-YU: Pop Tv HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149809
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV 3 Slovenia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149810
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV 2 Slovenia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149811
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV 1 Slovenia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149812
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Pink Style
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149813
+#EXTINF:0 tvg-id="PinkShow.rs" group-title="Channels",EX-YU: Pink Show
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149814
+#EXTINF:0 tvg-id="PinkKoncert.rs" group-title="Channels",EX-YU: Pink Koncert
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149815
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Pink LOL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149816
+#EXTINF:0 tvg-id="PinkSerije.rs" group-title="Channels",EX-YU: Pink Serije
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149817
+#EXTINF:0 tvg-id="PINKKids.rs" group-title="Channels",EX-YU: Pink Kids
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149818
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Pink HAHA
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149819
+#EXTINF:0 tvg-id="PinkClassic.rs" group-title="Channels",EX-YU: Pink Classic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149820
+#EXTINF:0 tvg-id="PinkPedia.rs" group-title="Channels",EX-YU: Pink Pedia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149821
+#EXTINF:0 tvg-id="PinkKuvar.rs" group-title="Channels",EX-YU: Pink Kuvar
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149822
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Pink Moves
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149823
+#EXTINF:0 tvg-id="PinkFilm.rs" group-title="Channels",EX-YU: Pink Film
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149824
+#EXTINF:0 tvg-id="PinkWestern.rs" group-title="Channels",EX-YU: Pink Western
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149825
+#EXTINF:0 tvg-id="PinkExtra.rs" group-title="Channels",EX-YU: Pink Extra
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149826
+#EXTINF:0 tvg-id="PinkComedy.hr" group-title="Channels",EX-YU: Pink Comedy
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149827
+#EXTINF:0 tvg-id="PinkHits1.rs" group-title="Channels",EX-YU: Pink Hits
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149828
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Pink Crime & Mistery
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149829
+#EXTINF:0 tvg-id="PinkRomance.rs" group-title="Channels",EX-YU: Pink Romance
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149830
+#EXTINF:0 tvg-id="PinkFolk2.rs" group-title="Channels",EX-YU: Pink Folk 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149831
+#EXTINF:0 tvg-id="PinkFolk1.rs" group-title="Channels",EX-YU: Pink Folk 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149832
+#EXTINF:0 tvg-id="PinkSciFiFantasy.rs" group-title="Channels",EX-YU: Pink Sci-fi & Fantasy
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149833
+#EXTINF:0 tvg-id="PINKPlus.hr" group-title="Channels",EX-YU: Pink Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149834
+#EXTINF:0 tvg-id="PinkSoap.rs" group-title="Channels",EX-YU: Pink Soap
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149835
+#EXTINF:0 tvg-id="PinkReality.rs" group-title="Channels",EX-YU: Pink Reality
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149836
+#EXTINF:0 tvg-id="PinkZabava.rs" group-title="Channels",EX-YU: Pink Zabava
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149837
+#EXTINF:0 tvg-id="PinkWorld.rs" group-title="Channels",EX-YU: Pink World
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149838
+#EXTINF:0 tvg-id="PinkThriller.rs" group-title="Channels",EX-YU: Pink Thriller
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149839
+#EXTINF:0 tvg-id="PinkHorror.hr" group-title="Channels",EX-YU: Pink Horor
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149840
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",EX-YU: Pink Premium
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149841
+#EXTINF:0 tvg-id="PinkAction.rs" group-title="Channels",EX-YU: Pink Action
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149842
+#EXTINF:0 tvg-id="Pink3.rs" group-title="Channels",EX-YU: Pink 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149843
+#EXTINF:0 tvg-id="Pink2.hr" group-title="Channels",EX-YU: Pink 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149844
+#EXTINF:0 tvg-id="Pink1.rs" group-title="Channels",EX-YU: Pink
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149845
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: RTV 21 Macedonia (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149846
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: TV Kumanovo (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149847
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sonce TV (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149848
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Kanal 5 (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149849
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: 24 Vesti (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149850
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Telma (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149851
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Nasa TV (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149852
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Alsat (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149853
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sitel 2 (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149854
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Sitel (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149855
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Tera (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149856
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: Alfa (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149857
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: MRT 3 (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149858
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: MRT 2 (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149859
+#EXTINF:0 tvg-id="ext" group-title="Channels",EX-YU: MRT 1 (Mk)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149860
+#EXTINF:0 tvg-id="ClubRTL.be" group-title="Channels",BE: Club RTL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69787
+#EXTINF:0 tvg-id="LaDeux.be" group-title="Channels",BE: La Deux
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69788
+#EXTINF:0 tvg-id="LaTrois.be" group-title="Channels",BE: La Trois
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69789
+#EXTINF:0 tvg-id="LaUne.be" group-title="Channels",BE: La Une
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69790
+#EXTINF:0 tvg-id="PlugRTL.be" group-title="Channels",BE: Plug RTL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69791
+#EXTINF:0 tvg-id="RTLTVI.be" group-title="Channels",BE: RTL TVI
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69792
+#EXTINF:0 tvg-id="Vijf.be" group-title="Channels",BE: VIJF
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69794
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Vitaya HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69795
+#EXTINF:0 tvg-id="Vtm.be" group-title="Channels",BE: VTM
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69796
+#EXTINF:0 tvg-id="een.be" group-title="Channels",BE: Een
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69797
+#EXTINF:0 tvg-id="AB3.be" group-title="Channels",BE: AB3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69799
+#EXTINF:0 tvg-id="acht.be" group-title="Channels",BE: Acht
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69800
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Cinema 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69801
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: JimJam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69802
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Serie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69803
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Canal Zoom HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69804
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: CAZ
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69805
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Evenaar HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69806
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: TVM Kids
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69807
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Ketnet
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69808
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: LUX TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69809
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Notele HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69810
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: NRJ Hits HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69811
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Voo Sport 1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69812
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: TVL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69815
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: TVO HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69816
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: VTM Kazoom
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69817
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: ZES
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69819
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Eldo TV LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69820
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: RTL Luxembourg LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69821
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: RTL Luxembourg 2 LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69822
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Chamber TV LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69823
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: BX1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/69824
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Canvas HD+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49252
+#EXTINF:0 tvg-id="ClubRTL.be" group-title="Channels",BE: Club RTL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49253
+#EXTINF:0 tvg-id="LaDeux.be" group-title="Channels",BE: La Deux
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49254
+#EXTINF:0 tvg-id="LaTrois.be" group-title="Channels",BE: La Trois
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49255
+#EXTINF:0 tvg-id="LaUne.be" group-title="Channels",BE: La Une
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49256
+#EXTINF:0 tvg-id="PlugRTL.be" group-title="Channels",BE: Plug RTL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49257
+#EXTINF:0 tvg-id="RTLTVI.be" group-title="Channels",BE: RTL TVI
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49258
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Vier HD+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49259
+#EXTINF:0 tvg-id="Vijf.be" group-title="Channels",BE: VIJF
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49260
+#EXTINF:0 tvg-id="VTM3.be" group-title="Channels",BE: Vitaya HD+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49261
+#EXTINF:0 tvg-id="Vtm.be" group-title="Channels",BE: VTM
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49262
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: 2BE HD+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49263
+#EXTINF:0 tvg-id="AB3.be" group-title="Channels",BE: AB3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49264
+#EXTINF:0 tvg-id="acht.be" group-title="Channels",BE: Acht
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49265
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Cinema 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49266
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: JimJam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49267
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Serie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49268
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: ATV Antwerpen
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49269
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Canal Zoom HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49270
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: CAZ
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49271
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Evenaar HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49272
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Kadet
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49273
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Ketnet
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49274
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: LUX TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49275
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Notele HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49276
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: NRJ Hits HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49277
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Q2 HD+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49281
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: TVL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49282
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: TVO HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49283
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: VTM Kazoom
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49284
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: VTM Nieuws
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49285
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: ZES
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49286
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Eldo TV LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49287
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: RTL Luxembourg LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49288
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: RTL Luxembourg 2 LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49289
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: Chamber TV LU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49290
+#EXTINF:0 tvg-id="ext" group-title="Channels",BE: BX1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/49291
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: 2m Moc
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71981
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: 4G Aflam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71982
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: 218 TV Libye
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71980
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: AD Sports 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71988
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: 4G Classic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71984
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: 4G Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71985
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: 4G Film
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71986
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: A1 Jordan
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71987
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: AD Sports 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71989
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: AL Hiw Tunisia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71990
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: AL Man
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71991
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: T Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71992
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Abu Dhabi Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71993
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Abu Dhabi Nat Geo
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71994
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Abu Dhabi Sports 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71995
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Abu Dhabi Sports 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71996
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Abu Dhabi TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71997
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Aden TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71998
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Afak
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/71999
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Afrah TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72000
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Aghapy TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72001
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Ajial
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72002
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Ajman TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72003
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Ahd
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72004
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Ahly TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72005
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Alam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72006
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Anb
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72007
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Anis TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72008
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Anw
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72009
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Aoula
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72010
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Aoula Inter
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72011
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al abiya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72012
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al abiya Al Hadath FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72013
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al rab
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72014
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Assema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72016
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Basira
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72017
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Ekhbiya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72018
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Emat TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72020
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Fallujah
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72021
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Ghad Al Mushreq
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72022
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Ghad TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72024
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Ghadeer
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72025
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hayah Alaan
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72026
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hayat 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72027
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hayat 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72028
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hayat Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72029
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hayat Muslsalat
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72030
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hayat We Alnas
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72031
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hiw Ettounsi
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72032
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hurra Iraq
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72033
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Iman TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72034
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Insen TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72035
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Jadeed
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72036
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Jamahiria TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72037
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Janoubiya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72038
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Jazeera Documenty
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72039
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Jazeera English
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72040
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Jazeera HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72041
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Kahera Wal Nas
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72042
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Kahera Wal Nas 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72043
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Majd Hadith
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72044
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Majd Kids
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72045
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Majd Quran
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72046
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Majd TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72047
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Ma3ali TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72048
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Maef
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72049
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Maghibia 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72050
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Maghibia 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72051
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Maghribia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72052
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Mas
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72053
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Masd TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72054
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Masrawia Aflam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72055
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Malakoot Sat
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72056
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Hayat
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72057
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Horreya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72058
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Mawsleya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72059
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Mayadeen
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72060
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Minb TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72061
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Moutawaset TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72062
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Mustakillah
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72063
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Nada TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72064
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Nah Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72065
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Nah One
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72066
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Qam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72067
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Quran
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72068
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Rafiden
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72069
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Rai ?B
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72070
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Rasheed TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72071
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Rayyan 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72072
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Resalah
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72073
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Saeedah
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72074
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Sheyyah
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72075
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Shqiya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72076
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Shqiya News HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72077
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Shasha Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72078
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Sumia TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72079
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Taleaa TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72080
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Thanya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72081
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Tunisia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72082
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Waad Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72083
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Al Aoula Laayoune
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72084
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Aleqtisadiah
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72085
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Algeria TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72086
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Algerie 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72087
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Aloula Moc
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72091
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Aloula Moc FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72092
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: rabiaa
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72093
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: riadia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72094
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: ryadia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72095
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: t Aflam 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72096
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: t Aflam 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72097
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: t Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72098
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: t Hekayat 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72099
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: t Hekayat 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72100
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Asayel TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72101
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Asia TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72102
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Assadissa
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72103
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Attessia TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72104
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Azhi
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72105
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: B4U
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72106
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: B4U Aflam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72107
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: B4U Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72108
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: BBC abic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72109
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: BBC abic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72110
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Bahrain TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72111
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Baem
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72112
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Belody Aflam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72113
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Belqees
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72114
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Berbere TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72115
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Beur TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72116
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Bzaf TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72117
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CBC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72118
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CBC Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72119
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CBC Extra
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72120
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CBC Sofra
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72121
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CNA
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72122
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CNBC abia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72123
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CNN abic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72124
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: CTV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72125
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cairo Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72126
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cairo Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72127
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Canal Algerie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72128
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cthage TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72129
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Ctoon Network
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72130
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cima
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72131
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cima Ali Baba
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72132
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cima Tube
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72133
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cinema 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72134
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cinema 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72135
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cinema Pro
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72136
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Cinema Tube
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72137
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: DMC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72138
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: DMC Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72139
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: DMC Sports
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72140
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: DW abic TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72141
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dka Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72142
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dolly Mosalsalat
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72143
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dream 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72144
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dua Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72145
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72146
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Nour
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72147
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai One
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72148
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Racing 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72149
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Racing
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72150
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Sports 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72151
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Sports 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72152
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Sports
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72153
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72154
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dubai Zaman
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72155
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dzair News
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72156
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Dzair TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72157
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: ENTV Algerie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72158
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Echorouk Benna
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72159
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Echorouk News
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72160
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Echorouk TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72161
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: El Djazairia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72162
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: El Fadjr TV DZ
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72163
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: El Heddaf TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72164
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: El Moled
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72165
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Ennah TV Alg
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72166
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Euronews
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72167
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Family Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72168
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Fatafeat
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72169
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Fox Family Movies HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72170
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: France 24 abic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72171
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: France 24 abic HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72172
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Future TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72173
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Hanibal
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72174
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Heem Al Sultan
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72175
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Hawacom
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72176
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: HodHod TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72178
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Hona Baghdad
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72179
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Iqra TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72181
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Iraqi EDU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72182
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Iraqia Sport
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72183
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Iraqia TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72184
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Jeem HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72185
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Jordan HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72186
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Jordan Sport
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72187
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: KBC Algeria
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72188
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: KTV Al abi HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72189
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: KTV CH 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72190
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: KTV CH 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72191
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: KTV Ethraa HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72192
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: KTV S.Plus HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72193
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Kala TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72195
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Kuwait Sport
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72196
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Kuwait Sport Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72197
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Kuwait Sport TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72198
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Kuwait TV1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72199
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: LBC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72201
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: LDC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72202
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Lebanon
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72203
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libya 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72204
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libya AL Mostakbal
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72205
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libya ALrasmia TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72206
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libya Al Ahr TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72207
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libya Al Hadath
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72208
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libya El Watan
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72209
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libya TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72210
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Libyas Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72211
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: M Cinema TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72212
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: M Classic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72213
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: M Tunisia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72214
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBA Masr 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72215
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72216
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72217
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72218
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72219
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72220
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72221
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 4 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72222
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC 4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72223
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC Action
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72224
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC Bollywood
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72226
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC Drama
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72227
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC Drama HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72228
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: Mekameleen TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72505
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARB: MBC Drama Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/72229
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BNT 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85080
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BNT 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85081
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BNT 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85082
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BNT 4
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85083
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BTV FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85084
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BTV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85085
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BTV Action
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85086
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BTV Cinema
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85087
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BTV Comedy
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85088
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BTV Lady HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85089
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: 24 Kitchen
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85090
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Nova TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85091
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Nova Sport HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85092
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Kino Nova
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85093
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Diema TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85094
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Diema Family
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85095
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Diema Sport 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85096
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Diema Sport 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85097
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Diema Sport 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85098
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Max Sport 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85099
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Max Sport 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85100
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Max Sport 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85101
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Max Sport 4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85102
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Auto Motor Sport
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85103
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Sport Plus FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85104
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Eurosport 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85105
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Eurosport 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85106
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Fox
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85107
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Fox Crime
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85108
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Fox Life
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85109
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: HBO FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85110
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: HBO 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85111
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: HBO 2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85112
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: HBO 3 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85113
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Comedy Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85114
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: CineMax 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85115
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: CineMax 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85116
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Cinema Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85117
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: FilmBox Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85118
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: AMC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85119
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: AXN
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85120
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Action Plus HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85121
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Film Plus
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85122
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Filmbox Extra
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85123
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Movie Star
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85124
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Box TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85125
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Planeta
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85126
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Planeta HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85127
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Planeta Folk
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85128
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Ring TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85129
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Roma TV FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85130
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: City TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85131
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Fen TV FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85132
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Folklor TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85133
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: DNES
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85134
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: DSTV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85135
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: BG Music HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85136
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Balkanika Music
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85137
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Magic TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85138
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: The Voice
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85140
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Tiankov Folk
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85141
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: This is Bulgaria HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85142
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Food Network
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85143
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: History Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85144
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Hobby TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85145
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Hobby Lov
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85146
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Animal Planet
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85147
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Discovery Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85148
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: National Geographic FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85149
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Nat Geo Wild HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85150
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Viasat History HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85151
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: TV Cherno
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85152
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: TV Evropa
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85153
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Bloomberg
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85154
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: On Air TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85155
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Bulgaria 24
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85156
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Cartoon Network
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85157
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Disney Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85158
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Jim Jam
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85159
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Nickelodeon
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85160
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Baby TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85161
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Duck TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85162
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: E-Kids
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85163
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Evrokom
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85164
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: Kanal 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85165
+#EXTINF:0 tvg-id="ext" group-title="Channels",BG: 7/8 TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85166
+#EXTINF:0 tvg-id="4E.gr" group-title="Channels",GR: 4E TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131861
+#EXTINF:0 tvg-id="Skai.gr" group-title="Channels",GR: Skai
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131862
+#EXTINF:0 tvg-id="star.gr" group-title="Channels",GR: Star
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131863
+#EXTINF:0 tvg-id="ANT1.gr" group-title="Channels",GR: Ant1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131864
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Open Beyond HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131865
+#EXTINF:0 tvg-id="NEPIT1.gr" group-title="Channels",GR: ERT 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131866
+#EXTINF:0 tvg-id="NEPITplus.gr" group-title="Channels",GR: ERT 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131867
+#EXTINF:0 tvg-id="EPT3.gr" group-title="Channels",GR: ERT 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131868
+#EXTINF:0 tvg-id="Macedonia.gr" group-title="Channels",GR: Makedonia TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131869
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Ionian TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131870
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Zouzounia
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131871
+#EXTINF:0 tvg-id="Kontra.gr" group-title="Channels",GR: Kontra TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131872
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Rik Sat CY
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131873
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: ERT World HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131874
+#EXTINF:0 tvg-id="Kphthtv.gr" group-title="Channels",GR: KPHTH TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131875
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Sigma TV CY
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131876
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: EuroSport 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131877
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nickelodeon HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131878
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Disney Channel HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131879
+#EXTINF:0 tvg-id="SmileTV.gr" group-title="Channels",GR: Smile TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131880
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: STEF TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131881
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote History HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131882
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: National Geo HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131883
+#EXTINF:0 tvg-id="natgeoWildHD.gr" group-title="Channels",GR: National Geo Wild HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131884
+#EXTINF:0 tvg-id="Thrakinet.gr" group-title="Channels",GR: Thraki Net
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131885
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: TileSport TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131886
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Barbie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131887
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: NG TV Radio
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131888
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Net TV Toronto
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131889
+#EXTINF:0 tvg-id="Deltatv.gr" group-title="Channels",GR: Delta TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131890
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Magic TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131891
+#EXTINF:0 tvg-id="mega.gr" group-title="Channels",GR: MEGA
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131892
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Open Beyond
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131893
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Scooby Doo
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131894
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Smurfs (ΣΤΡΟΥΜΦΑΚΙΑ)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131895
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: SpongeBob SquarePants
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131896
+#EXTINF:0 tvg-id="NauticalChannel.gr" group-title="Channels",GR: Nautical Channel HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131897
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Discovery Channel HD ( Multi Subs)
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131898
+#EXTINF:0 tvg-id="DiscoveryScience.gr" group-title="Channels",GR: Discovery Science HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131899
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Body in Balance HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131900
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: History HD ( Multi Subs )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131901
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Lonian TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131902
+#EXTINF:0 tvg-id="Tv100.gr" group-title="Channels",GR: TV100
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131903
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: APT TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131904
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: High TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131905
+#EXTINF:0 tvg-id="KritiTV.gr" group-title="Channels",GR: ΚΡΗΤΗ TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131906
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: CINE STAR THRILLER
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131907
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: GALAXY
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131908
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: DIAVATA TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131909
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: NETV TORONTO
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131910
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: GROOVY
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131911
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: BCI 24 NEWS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131912
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: EKKLHSIA TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131913
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: HORSE RACES
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131914
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: PANIK TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131915
+#EXTINF:0 tvg-id="Thrakinet.gr" group-title="Channels",GR: THRAKINET
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131916
+#EXTINF:0 tvg-id="Channel9.gr" group-title="Channels",GR: CHANNEL 9
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131917
+#EXTINF:0 tvg-id="Diktyotv.gr" group-title="Channels",GR: Diktyo TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131918
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Μπάρμπι (barbie) HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131919
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: peppa Πεππα το γουρουνάκι HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131920
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: NRG 91 MUSIC
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131921
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Baraza TV Pop & Dance
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131922
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Baraza TV Greek Hits
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131923
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Baraza TV Classic Hits
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131924
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: XALASTRA TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131925
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Tile Musiki.
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131926
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: NOTIOI TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131927
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: EOE Channel
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131928
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Thraki Net TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131929
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: START TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131930
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Ninja Turtles
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131931
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 2 4K
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131932
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 1 4K
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131933
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 4 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131934
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 3 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131935
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 2 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131936
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131937
+#EXTINF:0 tvg-id="VH1.gr" group-title="Channels",GR: VH1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131938
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: STAR FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131939
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: OPEN BEYOND FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131940
+#EXTINF:0 tvg-id="ANT1.gr" group-title="Channels",GR: ANT1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131941
+#EXTINF:0 tvg-id="alpha.gr" group-title="Channels",GR: ALPHA FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131942
+#EXTINF:0 tvg-id="Skai.gr" group-title="Channels",GR: SKAI FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131943
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: TCM HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131944
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: National Geo HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131945
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Fox HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131946
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Outdoor Channel HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131947
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Star K.E
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131948
+#EXTINF:0 tvg-id="BBCEarth.gr" group-title="Channels",GR: BBC Earth HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131949
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: CBS Reality HD ( Multi Subs )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131950
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Fox Life HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131951
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Cinema 4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131952
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131953
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131954
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131955
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Premiere 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131956
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Sports 4 HD ( LIVE MATCH ONLY )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131957
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Sports 3 HD ( LIVE MATCH ONLY )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131958
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Sports 2 HD ( LIVE MATCH ONLY )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131959
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Sport 1 HD ( LIVE MATCH ONLY )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131960
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Cinema 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131961
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Cinema 2  HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131962
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Cinema 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131963
+#EXTINF:0 tvg-id="MadHits.gr" group-title="Channels",GR: MAD Hits
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131964
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Viasat Nature HD ( Multi Subs )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131965
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Viasat Explore HD ( Multi Subs )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131966
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Crime Investigation HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131967
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Travel Channel HD ( Multi Subs )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131968
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Nova Sports 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131969
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 6 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131970
+#EXTINF:0 tvg-id="OTESport5.gr" group-title="Channels",GR: Cosmote Sport 5 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131971
+#EXTINF:0 tvg-id="OTESport3.gr" group-title="Channels",GR: Cosmote Sport 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131972
+#EXTINF:0 tvg-id="OTESport1.gr" group-title="Channels",GR: Cosmote Sport 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131973
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Eurosport 1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131974
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Viasat History HD ( Multi Subs )
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131975
+#EXTINF:0 tvg-id="OTECinema1.gr" group-title="Channels",GR: Cosmote Cinema 1 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131976
+#EXTINF:0 tvg-id="OTECinema2.gr" group-title="Channels",GR: Cosmote Cinema 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131977
+#EXTINF:0 tvg-id="OTECinema3.gr" group-title="Channels",GR: Cosmote Cinema 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131978
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 8 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131979
+#EXTINF:0 tvg-id="ext" group-title="Channels",GR: Cosmote Sport 7 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131980
+#EXTINF:0 tvg-id="OTESport4.gr" group-title="Channels",GR: Cosmote Sport 4 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131981
+#EXTINF:0 tvg-id="OTESport2.gr" group-title="Channels",GR: Cosmote Sport 2 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131982
+#EXTINF:0 tvg-id="OTESport1.gr" group-title="Channels",GR: Cosmote Sport 1 HD+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131983
+#EXTINF:0 tvg-id="MADGreekz.gr" group-title="Channels",GR: MAD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/131984
+#EXTINF:0 tvg-id="ext" group-title="Channels",81 Oray Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124122
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ege Üniversitesi Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124137
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pamukkale Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/139555
+#EXTINF:0 tvg-id="ext" group-title="Channels",Drt Denizli
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/139556
+#EXTINF:0 tvg-id="ext" group-title="Channels",AHI TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124123
+#EXTINF:0 tvg-id="ext" group-title="Channels",Akit Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124125
+#EXTINF:0 tvg-id="ext" group-title="Channels",Altas Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124126
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOLU MERKEZ TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124127
+#EXTINF:0 tvg-id="ext" group-title="Channels",BURSA TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124128
+#EXTINF:0 tvg-id="ext" group-title="Channels",Biat Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124130
+#EXTINF:0 tvg-id="ext" group-title="Channels",Can Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124132
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dersim 62
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124134
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dogus Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124135
+#EXTINF:0 tvg-id="game-show" group-title="Channels",E Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124136
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ekopazar Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124138
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL 34
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124140
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL BEN TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124141
+#EXTINF:0 tvg-id="ext" group-title="Channels",KAYSERI KAY TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124142
+#EXTINF:0 tvg-id="ext" group-title="Channels",KON TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124143
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 15
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124145
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 19
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124146
+#EXTINF:0 tvg-id="Kanal3.bg" group-title="Channels",Kanal 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124147
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal Alanya
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124148
+#EXTINF:0 tvg-id="KanalT.tr" group-title="Channels",Kanal T
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124150
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal Urfa
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124151
+#EXTINF:0 tvg-id="ext" group-title="Channels",Line Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124153
+#EXTINF:0 tvg-id="ext" group-title="Channels",Medya Haber
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124154
+#EXTINF:0 tvg-id="ext" group-title="Channels",Merkez Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124155
+#EXTINF:0 tvg-id="ext" group-title="Channels",Metoroloji Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124156
+#EXTINF:0 tvg-id="on-tv-259" group-title="Channels",On tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124159
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rehber Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124161
+#EXTINF:0 tvg-id="ext" group-title="Channels",Td1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124168
+#EXTINF:0 tvg-id="ext" group-title="Channels",URFA GUNEYDOGU
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124173
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viyana Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124175
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yildiz Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124176
+#EXTINF:0 tvg-id="ext" group-title="Channels",KENT TURK TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124177
+#EXTINF:0 tvg-id="ext" group-title="Channels",OlayTürk HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124178
+#EXTINF:0 tvg-id="tv1-lt" group-title="Channels",TV1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124179
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL 38 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124180
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 26 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124182
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV41 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124183
+#EXTINF:0 tvg-id="ext" group-title="Channels",KanalV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124184
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 68 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124185
+#EXTINF:0 tvg-id="ext" group-title="Channels",Deha TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124187
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gaziantep Olay TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124188
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mercan TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124190
+#EXTINF:0 tvg-id="ext" group-title="Channels",MaviKaradeniz HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124191
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 15 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124192
+#EXTINF:0 tvg-id="ext" group-title="Channels",ER TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124193
+#EXTINF:0 tvg-id="ext" group-title="Channels",GRT HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124194
+#EXTINF:0 tvg-id="ext" group-title="Channels",AksuTV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124195
+#EXTINF:0 tvg-id="ext" group-title="Channels",Deniz Postası TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124198
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dim TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124199
+#EXTINF:0 tvg-id="ext" group-title="Channels",EgeTV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124200
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 15 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124201
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 26 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124202
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 3 HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124203
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal Fırat HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/124204
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL SIM
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128117
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANAL T KIBRIS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128118
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ada TV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128123
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRT 1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128125
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kıbrıs Genc Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128128
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRT 3
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128129
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kıbrıs Gunes Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128130
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kıbrıs Ada Tv
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128131
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv 2020
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128132
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADYO ARABESK
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/128467
 
-#EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="France",Arte Ⓖ
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" tvg-id="LCP.fr" group-title="France",LCP
-https://lcp.fr/le-live-lcp-tnt-5433
-#EXTINF:-1 tvg-name="Public Sénat" tvg-logo="https://i.imgur.com/bJOdFT1.png" tvg-id="PublicSenat.fr" group-title="France",Public Sénat
-https://www.publicsenat.fr/direct
-#EXTINF:-1 tvg-name="CNews Ⓓ" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",CNews Ⓓ
-https://www.dailymotion.com/embed/video/x3b68jn
-#EXTINF:-1 tvg-name="franceinfo: Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/85px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" group-title="France",franceinfo: Ⓨ
-https://www.youtube.com/c/franceinfo/live
-#EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24French.fr" group-title="France",France 24 Ⓨ
-https://www.youtube.com/c/FRANCE24/live
-#EXTINF:-1 tvg-name="Africanews Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="France",Africanews Ⓨ
-https://www.youtube.com/c/Africanewsfr/live
-#EXTINF:-1 tvg-name="L'Équipe ⒹⒼ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" group-title="France",L'Équipe ⒹⒼ
-https://www.dailymotion.com/embed/video/x2lefik
-#EXTINF:-1 tvg-name="France Inter Ⓨ" tvg-logo="https://i.imgur.com/d9Ncl8m.png" tvg-id="FranceInter.fr" group-title="France",France Inter Ⓨ
-https://www.youtube.com/c/FranceInter/live
-#EXTINF:-1 tvg-name="CGTN Français" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNFrench.cn" group-title="France",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png" tvg-id="TF1.fr" group-title="France",TF1
-https://s13.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png" tvg-id="France2.fr" group-title="France",France 2
-https://s13.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png" tvg-id="France3.fr" group-title="France",France 3
-https://s13.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png" tvg-id="France5.fr" group-title="France",France 5
-https://s13.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png" tvg-id="M6.fr" group-title="France",M6
-https://s13.tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-name="C8" tvg-logo="https://i.imgur.com/LXhXF8l.png" tvg-id="C8.fr" group-title="France",C8
-https://s13.tntendirect.com/d8/live/playlist.m3u8
-#EXTINF:-1 tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png" tvg-id="W9.fr" group-title="France",W9
-https://s13.tntendirect.com/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/62px-TMC_logo_2016.svg.png" tvg-id="TMC.fr" group-title="France",TMC
-https://s13.tntendirect.com/tmc/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/62px-TFX_logo_2018.svg.png" tvg-id="TFX.fr" group-title="France",TFX
-https://s13.tntendirect.com/nt1/live/playlist.m3u8
-#EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/45px-NRJ_12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ 12
-https://s13.tntendirect.com/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png" tvg-id="BFMTV.fr" group-title="France",BFM TV
-https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:-1 tvg-name="CStar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png" tvg-id="CStar.fr" group-title="France",CStar
-https://s13.tntendirect.com/d17/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TF1 Séries Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/81px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" tvg-id="TF1SeriesFilms.fr" group-title="France",TF1 Séries Films
-https://s13.tntendirect.com/hd1/live/playlist.m3u8
-#EXTINF:-1 tvg-name="RMC Découverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-id="RMCDecouverte.fr" group-title="France",RMC Découverte
-https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png" tvg-id="Cherie25.fr" group-title="France",Chérie 25
-https://s13.tntendirect.com/cherie25/live/playlist.m3u8
-#EXTINF:-1 tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" tvg-id="LCI.fr" group-title="France",LCI
-https://sv0.data-stream.top/hls/lci.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/3Lr5iAj.png" tvg-id="EuronewsFrench.fr" group-title="France",Euronews
-https://euronews.alteox.app/hls/fr_stream.m3u8
-#EXTINF:-1 tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-id="TV5MondeInfo.fr" group-title="France",TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-name="TV5 Monde FBS" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" group-title="France",TV5 Monde FBS
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 tvg-name="TV5 Monde Europe" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeEurope.fr" group-title="France",TV5 Monde Europe
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 
-#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-id="CineAr.ar" group-title="Argentina",Cine.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" group-title="Argentina",Tec TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" group-title="Argentina",Televisión Pública Ⓨ
-https://www.youtube.com/user/TVPublicaArgentina/live
-#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" group-title="Argentina",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" group-title="Argentina",Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="Argentina",Crónica TV Ⓨ
-https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N Ⓨ
-https://www.youtube.com/c/c5n/live
-#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" group-title="Argentina",LN+ Ⓨ
-https://www.youtube.com/c/LaNacionMas/live
-#EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar" group-title="Argentina",Telemax
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Argentina",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Universidad" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" group-title="Argentina",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" group-title="Argentina",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="Argentina",El Nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América Ⓨ
-https://www.youtube.com/c/americaenvivo/live
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
-https://www.youtube.com/c/A24com/live
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" group-title="Australia",ABC
-https://c.mjh.nz/101002210221/
-#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" group-title="Australia",TVSN
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
-#EXTINF:-1 tvg-name="ABC Me" tvg-logo="https://i.imgur.com/gBh54wY.png" tvg-id="ABCMe.au" group-title="Australia",ABC Me
-https://c.mjh.nz/101002210224/
+
