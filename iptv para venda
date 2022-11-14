@@ -118,11 +118,6 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140975
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" group-title="Portugal",Euronews PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-
-#EXTINF:0 tvg-country="PT" tvg-logo="http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png",RTP Memória
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140887
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP Açores
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140888
 
@@ -151,7 +146,7 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",Fama TV
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",Fama TV
 https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="Portugal", NA TV
