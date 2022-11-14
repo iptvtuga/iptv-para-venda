@@ -232,7 +232,16 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140820
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140821
-
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Tennis NL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149423
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Voetbal  NL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149424
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Golf  NL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149425
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Racing  NL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149427
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Select  NL
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149429
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
 http://red.ipfox.org:8080/osama2022/osama2023/49361
