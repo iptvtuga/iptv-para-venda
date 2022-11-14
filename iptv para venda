@@ -508,7 +508,7 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85417
 
 #EXTINF:0 tvg-id="ext" group-title="US",CBS Pittsburgh KDKA
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148093
-#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBS POP
+#EXTINF:0 tvg-id="ext" group-title="US", CBS POP
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148094
 #EXTINF:0 tvg-id="ext" group-title="US",CBS Sacramento KOVR
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148095
@@ -528,11 +528,11 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148101
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148102
 #EXTINF:0 tvg-id="ext" group-title="US",CBS Sports Network UHD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148103
-#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBS St Louis KMOV
+#EXTINF:0 tvg-id="ext" group-title="US",CBS St Louis KMOV
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148104
-#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBSN Bay Area
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Bay Area
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148105
-#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBSN Boston
+#EXTINF:0 tvg-id="ext" group-title="US",| CBSN Boston
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148106
 #EXTINF:0 tvg-id="ext" group-title="US",CBSN Chicago
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148107
@@ -552,6 +552,28 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148113
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148114
 #EXTINF:0 tvg-id="ext" group-title="US",Spectrum SportsNet LA Dodgers
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148115
+
+
+#EXTINF:0 tvg-id="ext" group-title="US",|US| STARZ
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147908
+#EXTINF:0 tvg-id="ext" group-title="US",|US| STARZ CINEMA HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147909
+#EXTINF:0 tvg-id="ext" group-title="US",|US| TRUTV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147910
+#EXTINF:0 tvg-id="ext" group-title="US",|US| MSG
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147911
+#EXTINF:0 tvg-id="ext" group-title="Channels",|US| MSG 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147912
+#EXTINF:0 tvg-id="ext" group-title="US",|US| MSG+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147913
+#EXTINF:0 tvg-id="ext" group-title="US",|US| STARZ ENCORE CLASSICS HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147914
+#EXTINF:0 tvg-id="ext" group-title="US",|US| HALLMARK DRAMA
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147915
+#EXTINF:0 tvg-id="ext" group-title="US",|US| HALLMARK MOVIES & MYSTERIES
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147916
+
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT Interior SP
