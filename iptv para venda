@@ -151,24 +151,21 @@ https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="Portugal", NA TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
-
-
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw" group-title="Infantil",PANDA KIDS
+#EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw" group-title="Portugal",PANDA KIDS
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290678
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="Infantil",SIC Kids
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="Portugal",SIC Kids
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140968
-#EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454" group-title="Infantil",BABY TV
+#EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454" group-title="Portugal",BABY TV
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140961
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png" group-title="Infantil",BIGGS
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png" group-title="Portugal",BIGGS
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140967
-#EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw" group-title="Infantil",Canal Panda
+#EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/aES1q0rdYw-Yh8J6w0ZIpBJ-IejGrFBxA_nKBC9Nh_2Q6PhotIKvns1mAcN2IJ_qSxw" group-title="Portugal",Canal Panda
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43945
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Infantil",DISNEY CHANNEL
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",DISNEY CHANNEL
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70543
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Infantil",DISNEY JUNIOR
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",DISNEY JUNIOR
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/43975
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Infantil",Disney Pixar
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/15/e6/38/15e6386cfc79a35074e9863c90367933.jpg" group-title="Portugal",Disney Pixar
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/80010
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.poker-king.com/images/articles/wpt_logo_400.jpg" group-title="Canais Desportivos",World Poker Tour
@@ -316,34 +313,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Amado
-https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Luz
-https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Meia Praia
-https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor
-https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha
-https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
-https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
-https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
-https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Armação de Pêra
-https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Galé
-https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Peneco
-https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vilamoura
-https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
-https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
-#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
-https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE2MDg2YWQtODVjNC00Mjg2LTgyMmQtNjA4MThlOGRhYTVlXkEyXkFqcGdeQXVyODYzMDUxOTM@._V1_.jpg" group-title="filmes infantis PT",Ella Bella Bingo 
@@ -562,7 +531,7 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147909
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147910
 #EXTINF:0 tvg-id="ext" group-title="US",|US| MSG
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147911
-#EXTINF:0 tvg-id="ext" group-title="Channels",|US| MSG 2
+#EXTINF:0 tvg-id="ext" group-title="US",|US| MSG 2
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147912
 #EXTINF:0 tvg-id="ext" group-title="US",|US| MSG+
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/147913
@@ -686,6 +655,35 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Amado
+https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
 
 
 #EXTGRP:18+
