@@ -192,6 +192,25 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149435
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 4
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149438
 
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 1 
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148194
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 1 
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148196
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 1 
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148195
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148198
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 2
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148199
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports Arizona 
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148202
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos", FOX Sports Cincinnati
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148203
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports College Atlantic
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148204
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports Detroit
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148205
+
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Canais Desportivos",FIGHT SPORTS 
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/1MqD0Ap.png" group-title="Canais Desportivos",Fuel TV HD
