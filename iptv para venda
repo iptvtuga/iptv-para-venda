@@ -183,11 +183,6 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Canais Desportivos",Combate
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140911
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",BeIN 
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/1
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",BeIN 
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/10
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 1
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149432
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 2
@@ -675,6 +670,102 @@ https://tkuniverse22.tk/6714432.mp4
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cineplayers.com/sites/default/files/posters/2021/07/nntut8at8dwk6ajr8jja.jpg" group-title="filmes infantis PT",Space Jam- Uma Nova Era
 https://tkuniverse22.tk/3554046.mp4
+
+
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="França",Planete+ FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85367
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="França",Planete+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85368
+#EXTINF:0 tvg-id="ARTE.fr" group-title="França",Arte FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85369
+#EXTINF:0 tvg-id="ARTE.fr" group-title="França",Arte HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85370
+#EXTINF:0 tvg-id="ext" group-title="França",Luxe TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85371
+#EXTINF:0 tvg-id="Animaux.fr" group-title="França",Animaux
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85373
+#EXTINF:0 tvg-id="Histoire.fr" group-title="França",Histoire FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85374
+#EXTINF:0 tvg-id="Histoire.fr" group-title="França",Histoire
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85375
+#EXTINF:0 tvg-id="ext" group-title="França",Toute L Historie
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85376
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="França",Science et Vie FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85377
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="França",Science et Vie HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85378
+#EXTINF:0 tvg-id="Seasons.fr" group-title="França",Season FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85379
+#EXTINF:0 tvg-id="ext" group-title="França",Planete Plus CI FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85382
+#EXTINF:0 tvg-id="ext" group-title="França",Chasse E Peche HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85384
+#EXTINF:0 tvg-id="KTO.fr" group-title="França",KTO
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85386
+#EXTINF:0 tvg-id="ext" group-title="França",My Cuisine FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85387
+#EXTINF:0 tvg-id="Seasons.fr" group-title="França",Seasons HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85388
+#EXTINF:0 tvg-id="Voyage.fr" group-title="França",Voyage TV HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85389
+#EXTINF:0 tvg-id="ext" group-title="França",Viceland FHD
+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85390
+#EXTINF:0 tvg-id="Boing.fr" group-title="França",Boing HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85391
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="França",Boomerang HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85392
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="França",Canal J HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85393
+#EXTINF:0 tvg-id="Gulli.fr" group-title="França",Gulli FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85394
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="França",Cartoon Network FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85395
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="França",Cartoon Network
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85396
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="França",Disney Channel FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85397
+#EXTINF:0 tvg-id="ext" group-title="França",Disney Channel +1
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85398
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="França",Disney Cinema FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85399
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="França",Disney Cinema HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85400
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="França",Disney Junior FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85401
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="França",Disney Junior HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85402
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="França",Disney XD FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85403
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="França",Disney XD HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85404
+#EXTINF:0 tvg-id="Mangas.fr" group-title="França",Mangas HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85405
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="França",Nickelodeon HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85406
+#EXTINF:0 tvg-id="ext" group-title="França",Nickelodeon +1 FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85407
+#EXTINF:0 tvg-id="ext" group-title="França",Nickelodeon 4 Teen FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85408
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="França",Nickelodeon FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85409
+#EXTINF:0 tvg-id="NickJr.fr" group-title="França",Nickelodeon Junior
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85410
+#EXTINF:0 tvg-id="PIWI.fr" group-title="França",Piwi HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85411
+#EXTINF:0 tvg-id="PIWI.fr" group-title="França",Piwi+ FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85412
+#EXTINF:0 tvg-id="Tiji.fr" group-title="França",Tiji HD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85413
+#EXTINF:0 tvg-id="ext" group-title="França",Toonami FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85414
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="França",TeleToon+ FHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85415
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="França",TeleToon+
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85416
+#EXTINF:0 tvg-id="Mangas.fr" group-title="França",Mangas
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85417
+#EXTINF:0 tvg-id="JOne.fr" group-title="França",J-One HD
 
 
 
