@@ -320,373 +320,97 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 
-#EXTGRP:18+
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", KINO 18+
-#EXTGRP:18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-
-#EXTINF:-1 tvg-name="Babestation" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", Babestation
-#EXTGRP:18+
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-name="VISIT-X" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", VISIT-X
-#EXTGRP:18+
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",Miami TV Live
-#EXTGRP:18+
-http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-
-#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",MIA KHALIFA
-#EXTGRP:18+
-http://218158.vod.adultiptv.net/ph5ae33ab4a0327/play.m3u8
-
-#EXTINF:-1 group-title="18+",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="18+",VISIT-X
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="18+",VISIT-X r
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="18+",REDLIGHT
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:-1 group-title="18+",Hustler HD Europe
-http://78.83.191.18:8000/play/a078
-#EXTINF:-1 group-title="18+",Rouge TV 720p
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 group-title="18+",Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="18+",Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="18+",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="18+",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="18+",Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18+",Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="18+",Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="18+",Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="18+",Russian r
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="18+",Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="18+",Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="18+",Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="18+",Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="18+",Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="18+",POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="18+",Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="18+",Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="18+",Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="18+",Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="18+",Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="18+",Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="18+",MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="18+",Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="18+",Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="18+",Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="18+",Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="18+",Девственные Задницы
-https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
-#EXTINF:-1 group-title="18+",Шлюхи
-https://video2.tizam.cc/files/2501347/18_slutty.mp4
-#EXTINF:-1 group-title="18+",В две дырки. Фильм с переводом
-https://video1.tizam.cc/films/Private-Reality-18-Double.mp4
-#EXTINF:-1 group-title="18+",Долгая ночь
-https://video1.tizam.cc/old_films/WholeNight.mp4
-#EXTINF:-1 group-title="18+",Зазель Аромат любви
-https://video2.tizam.cc/files/2228366/zazel___the_scent_of_love.___zazel__aromat_lyubvi..mp4
-#EXTINF:-1 group-title="18+",Не Доверяй Никому
-https://video1.tizam.cc/films/PirateFetishMachine13TrustNoOne.mp4
-#EXTINF:-1 group-title="18+",MyCamTV Anal
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 group-title="18+",Найти и трахнуть
-https://video1.tizam.cc/films/najti_i_trahnut.mp4
-#EXTINF:-1 group-title="18+",Сон Фелисы
-https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT Interior SP
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="BRASIL", SBT TV Aratu (BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Cidade Verde - (PI)
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Floresta (PA)
-https://streaming.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT - TV Difusora (MA)
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Serra Dourada - (GO)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT Rede Massa (PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="BRASIL", SBT TV Paraense (PA)
-https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="BRASIL", SBT TV Guajará (PA)
-https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Jornal Caruaru (PE)
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV MT
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV MT 2
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV RN
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV NDTV SC
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="BRASIL",Band
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="BRASIL",Band - RBA TV (PA)
-https://streaming.gruporba.com.br/rba.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="BRASIL", RedeTV! TV Arapuan HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="BRASIL", TV Pampa - RedeTV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="BRASIL", RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="BRASIL", RedeTV! TV Pantanal (MT)
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="BRASIL", KpopTV Play
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="BRASIL", AniTV
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="BRASIL", StrikerVerso
-https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/xtreme.png" group-title="BRASIL", XTreme
-https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="BRASIL", YEEAAH TV
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="BRASIL", Anime TV - WebTV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="BRASIL",Loading - Web TV
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="BRASIL", Jetsons - Webtv
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="BRASIL", TV Gazeta (SP)
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="BRASIL",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="BRASIL", Rede Brasil (SP)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="BRASIL", Brasil Oeste (MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/varzeagrande.png" group-title="BRASIL",TV Várzea Grande (MT)
-https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/maisnews.png" group-title="BRASIL",TV MAIS NEWS
-https://livecdn2.eventials.com/live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhdGlvbl9uYW1lIjoiZXZlbnRpYWxzTGl2ZVRWIiwicHVibGlzaF9zdHJlYW1fbmFtZSI6InBkbml2MWkzbnkydXo0dmoifQ.JwWm054lZWMRmWPYBOrPs-urhvH8UY6pwxuMMwhTgUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="BRASIL",TV Cultura - TV Guará (MA)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="BRASIL", TV Cultura - TV Futuro (RJ)
-https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="BRASIL", Cultura Pará
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="BRASIL",Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="BRASIL", Rede Metrópole
-http://187.33.200.235:9000/hls/redemetropole.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="BRASIL",Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="BRASIL", Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="BRASIL", TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="BRASIL", Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="BRASIL",AWTV
-https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="BRASIL",Vintage TV
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="BRASIL", Rede Minas
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="BRASIL", TV União (DF)
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="BRASIL", Rede Família
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png" group-title="BRASIL", TV8 Brasil
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/tvbs.png" group-title="BRASIL", TVBS - Web TV
-https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="BRASIL", Rede Clone - WebTV
-https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="BRASIL", TV Brasil  - Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="BRASIL", TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Amado
 https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Luz
 https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Meia Praia
 https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor
 https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha
 https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
 https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
 https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
 https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Armação de Pêra
 https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Galé
 https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Peneco
 https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vilamoura
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
 https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
-
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
 https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
 
 
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE2MDg2YWQtODVjNC00Mjg2LTgyMmQtNjA4MThlOGRhYTVlXkEyXkFqcGdeQXVyODYzMDUxOTM@._V1_.jpg" group-title="filmes infantis PT",Ella Bella Bingo 
 https://tkuniverse22.tk/9537888.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ytimg.com/vi/nUGZJh6AgSU/maxresdefault.jpg" group-title="filmes infantis PT",Até os Ratos Merecem o Céu
 https://tkuniverse22.tk/3804810.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://fzmovieshd.com/wp-content/uploads/2021/08/download-3.jpg" group-title="filmes infantis PT",Missão- Galáxia 
 https://tkuniverse22.tk/9713680.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://mb.web.sapo.io/df922a835b010f0608bf6bfcf871d707284d208b.jpg" group-title="filmes infantis PT",Os Monstros do Wrestling 
 https://tkuniverse22.tk/8337158.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="http://cinemas.nos.pt/_layouts/15/Handlers/RenderImage.ashx?file=52789.jpg" group-title="filmes infantis PT",A Família Addams 2
 https://tkuniverse22.tk/11125620.mp4
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202112/ftv45-61c453d7dc139-r1.jpg" group-title="filmes infantis PT",Riverdance- Uma Aventura Muito Animada
 https://tkuniverse22.tk/10841088.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raisingchildren.net.au/__data/assets/image/0023/94091/The-elfkins-baking-a-difference.jpg" group-title="filmes infantis PT",Riverdance- Os Elfkins - Operação Pastelaria
 https://tkuniverse22.tk/9037650.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://dreamia.club/amc/uploads/2021/08/premio_set.png" group-title="filmes infantis PT",Riverdance- A Volta ao Mundo em 80 Dias 
 https://tkuniverse22.tk/10341040.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Hotel_Transylvania_Transformania.jpg" group-title="filmes infantis PT", Hotel Transylvania- Transformania
 https://tkuniverse22.tk/9848626.mp4
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://images.pathe-thuis.nl/28571_450x640.jpg" group-title="filmes infantis PT",Encanto
 https://tkuniverse22.tk/2953050.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinema10.com.br/upload/filmes/filmes_15232_1.jpg" group-title="filmes infantis PT",De Volta a Casa 
 https://tkuniverse22.tk/13575806.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/616YGDys8TL.jpg" group-title="filmes infantis PT",Um Menino Chamado Natal 
 https://tkuniverse22.tk/10187208.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/564x/8c/4d/2c/8c4d2cacef3e6edafc1340ccb5b9aa7f.jpg" group-title="filmes infantis PT",Boss Baby- Negócios de Família
 https://tkuniverse22.tk/6932874.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://br.web.img3.acsta.net/r_1280_720/pictures/21/10/13/09/04/0888294.jpg" group-title="filmes infantis PT",Sozinho em… Lar Doce Lar 
 https://tkuniverse22.tk/11012066.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinemas.nos.pt/_layouts/15/Handlers/RenderImage.ashx?file=52700.jpg" group-title="filmes infantis PT",Aya e a Feiticeira
 https://tkuniverse22.tk/12441478.mp4^
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w500/58ZwIMQbwZD243jG782KVegzm1U.jpg" group-title="filmes infantis PT",Cães e Gatos 3- Patas Unidas! 
 https://tkuniverse22.tk/12745164.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/18/28/3513458.jpg" group-title="filmes infantis PT",Under Wraps- Uma Múmia no Halloween  
 https://tkuniverse22.tk/13464350.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinemas.nos.pt/_layouts/15/Handlers/RenderImage.ashx?file=52716.jpg" group-title="filmes infantis PT",Patrulha Pata- O Filme
 https://tkuniverse22.tk/11832046.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w500/1DbsxrUVcjI2R0AKihCSovkwpym.jpg" group-title="filmes infantis PT",D’Artacão e os Três Moscãoteiros
 https://tkuniverse22.tk/11777920.mp4
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz85805_grande.jpg" group-title="filmes infantis PT",O Meu Amigo é Ninja
 https://tkuniverse22.tk/7367960.mp4
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinemas.nos.pt/_layouts/15/Handlers/RenderImage.ashx?file=52664.jpg" group-title="filmes infantis PT",Os Croods- Uma Nova Era 
 https://tkuniverse22.tk/2850386.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.arcamoz.com/wp-content/uploads/2021/10/Pokemon-O-Filme-Segredos-da-Selva-300x450-1.jpg" group-title="filmes infantis PT",Pokémon o Filme- Segredos da Selva
 https://tkuniverse22.tk/11819890.mp4
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinevisao.pt/wp-content/uploads/2021/03/Poster-do-filme-Os-Flofos-Viagem-no-Tempo.jpg" group-title="filmes infantis PT",Os Flofos- Viagem no Tempo 
 https://tkuniverse22.tk/8241000.mp4
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w500/5cbGVDmRMYVzkq5cItZ7cYlDdDR.jpg" group-title="filmes infantis PT",Spirit Invencíve
 https://tkuniverse22.tk/11084896.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/08/16/20/45/5012446.jpg" group-title="filmes infantis PT",My Little Pony- Uma Nova Geraçã
 https://tkuniverse22.tk/10101702.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinemas.nos.pt/_layouts/15/Handlers/RenderImage.ashx?file=52524.jpg" group-title="filmes infantis PT",O Mundo Secreto dos Dragões
 https://tkuniverse22.tk/7080422.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/45040.jpg" group-title="filmes infantis PT",Upsss! 2 - A Aventura Continua
 https://tkuniverse22.tk/12615474.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cinemas.nos.pt/_layouts/15/Handlers/RenderImage.ashx?file=52621.jpg" group-title="filmes infantis PT",Peter Rabbit- Coelho à Solta
 https://tkuniverse22.tk/8376234.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://noticiasetecnologia.com/wp-content/uploads/2021/09/Contos-do-Medo-2.jpg" group-title="filmes infantis PT",Contos do Medo
 https://tkuniverse22.tk/10521144.mp4
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://media.fstatic.com/nESkOlNtjPO-BACgsU2Ur7Vm688=/210x312/smart/media/movies/covers/2021/08/AAAABSJpfiYrz0tn0UYrjdY_epzKe4Hok8gX5uQCncm_pi9BSrML79E-LrEGW9pjw6_OW358F4.jpg" group-title="filmes infantis PT",Loud em Casa- O Filme
 https://tkuniverse22.tk/6714432.mp4
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cineplayers.com/sites/default/files/posters/2021/07/nntut8at8dwk6ajr8jja.jpg" group-title="filmes infantis PT",Space Jam- Uma Nova Era
 https://tkuniverse22.tk/3554046.mp4
 
@@ -787,4 +511,264 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/85417
 #EXTINF:0 tvg-id="JOne.fr" group-title="França",J-One HD
 
 
+#EXTINF:0 tvg-id="ext" group-title="US",CBS Pittsburgh KDKA
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148093
+#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBS POP
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148094
+#EXTINF:0 tvg-id="ext" group-title="US",CBS Sacramento KOVR
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148095
+#EXTINF:0 tvg-id="ext" group-title="US",CBS San Antonio KENS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148096
+#EXTINF:0 tvg-id="ext" group-title="US",CBS San Diego KFMB
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148097
+#EXTINF:0 tvg-id="ext" group-title="US",CBS San Francisco KCBS
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148098
+#EXTINF:0 tvg-id="ext" group-title="US",CBS San Francisco KPIX
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148099
+#EXTINF:0 tvg-id="ext" group-title="US",CBS SPORTS HQ
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148100
+#EXTINF:0 tvg-id="ext" group-title="US",|CBS Sports Network LHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148101
+#EXTINF:0 tvg-id="ext" group-title="US",CBS Sports Network SD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148102
+#EXTINF:0 tvg-id="ext" group-title="US",CBS Sports Network UHD
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148103
+#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBS St Louis KMOV
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148104
+#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBSN Bay Area
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148105
+#EXTINF:0 tvg-id="ext" group-title="Channels",|US| CBSN Boston
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148106
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Chicago
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148107
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Dallas
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148108
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Denver
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148109
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Los Angeles
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148110
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Minnesota
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148111
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN New York
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148112
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Philly
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148113
+#EXTINF:0 tvg-id="ext" group-title="US",CBSN Pittsburgh
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148114
+#EXTINF:0 tvg-id="ext" group-title="US",Spectrum SportsNet LA Dodgers
+http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148115
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="BRASIL", SBT TV Aratu (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Floresta (PA)
+https://streaming.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT - TV Difusora (MA)
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="BRASIL", SBT TV Paraense (PA)
+https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="BRASIL", SBT TV Guajará (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV RN
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="BRASIL",Band
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="BRASIL",Band - RBA TV (PA)
+https://streaming.gruporba.com.br/rba.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="BRASIL", RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="BRASIL", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="BRASIL", RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="BRASIL", RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="BRASIL", KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="BRASIL", AniTV
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="BRASIL", StrikerVerso
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/xtreme.png" group-title="BRASIL", XTreme
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="BRASIL", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="BRASIL", Anime TV - WebTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="BRASIL",Loading - Web TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="BRASIL", Jetsons - Webtv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="BRASIL", TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="BRASIL",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="BRASIL", Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="BRASIL", Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/varzeagrande.png" group-title="BRASIL",TV Várzea Grande (MT)
+https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/maisnews.png" group-title="BRASIL",TV MAIS NEWS
+https://livecdn2.eventials.com/live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhdGlvbl9uYW1lIjoiZXZlbnRpYWxzTGl2ZVRWIiwicHVibGlzaF9zdHJlYW1fbmFtZSI6InBkbml2MWkzbnkydXo0dmoifQ.JwWm054lZWMRmWPYBOrPs-urhvH8UY6pwxuMMwhTgUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="BRASIL",TV Cultura - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="BRASIL", TV Cultura - TV Futuro (RJ)
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="BRASIL", Cultura Pará
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="BRASIL",Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="BRASIL", Rede Metrópole
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="BRASIL",Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="BRASIL", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="BRASIL", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="BRASIL", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="BRASIL",AWTV
+https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="BRASIL",Vintage TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="BRASIL", Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="BRASIL", TV União (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="BRASIL", Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png" group-title="BRASIL", TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/tvbs.png" group-title="BRASIL", TVBS - Web TV
+https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="BRASIL", Rede Clone - WebTV
+https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="BRASIL", TV Brasil  - Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="BRASIL", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+
+
+#EXTGRP:18+
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", KINO 18+
+#EXTGRP:18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-name="Babestation" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", Babestation
+#EXTGRP:18+
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-name="VISIT-X" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", VISIT-X
+#EXTGRP:18+
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",Miami TV Live
+#EXTGRP:18+
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",MIA KHALIFA
+#EXTGRP:18+
+http://218158.vod.adultiptv.net/ph5ae33ab4a0327/play.m3u8
+#EXTINF:-1 group-title="18+",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="18+",VISIT-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="18+",VISIT-X r
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="18+",REDLIGHT
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="18+",Hustler HD Europe
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="18+",Rouge TV 720p
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="18+",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="18+",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="18+",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="18+",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="18+",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="18+",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="18+",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="18+",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="18+",Russian r
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="18+",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="18+",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="18+",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="18+",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="18+",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="18+",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="18+",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="18+",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="18+",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="18+",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="18+",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="18+",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="18+",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="18+",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="18+",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="18+",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="18+",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="18+",Девственные Задницы
+https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
+#EXTINF:-1 group-title="18+",Шлюхи
+https://video2.tizam.cc/files/2501347/18_slutty.mp4
+#EXTINF:-1 group-title="18+",В две дырки. Фильм с переводом
+https://video1.tizam.cc/films/Private-Reality-18-Double.mp4
+#EXTINF:-1 group-title="18+",Долгая ночь
+https://video1.tizam.cc/old_films/WholeNight.mp4
+#EXTINF:-1 group-title="18+",Зазель Аромат любви
+https://video2.tizam.cc/files/2228366/zazel___the_scent_of_love.___zazel__aromat_lyubvi..mp4
+#EXTINF:-1 group-title="18+",Не Доверяй Никому
+https://video1.tizam.cc/films/PirateFetishMachine13TrustNoOne.mp4
+#EXTINF:-1 group-title="18+",MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="18+",Найти и трахнуть
+https://video1.tizam.cc/films/najti_i_trahnut.mp4
+#EXTINF:-1 group-title="18+",Сон Фелисы
+https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
 
