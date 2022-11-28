@@ -185,14 +185,14 @@ http://185.134.22.150:8080/jokertv/streaming@2021/63047
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
 http://185.134.22.150:8080/jokertv/streaming@2021/24043
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://185.134.22.150:8080/jokertv/streaming@2021/63049
+https://list.iptvcat.com/my_list/s/1d2f69b1bbeb99dcaa29d8291daba4dc.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
 http://185.134.22.150:8080/jokertv/streaming@2021/63050
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
 http://185.134.22.150:8080/jokertv/streaming@2021/1457
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
-http://185.134.22.150:8080/jokertv/streaming@2021/63052
+https://list.iptvcat.com/my_list/s/7f7a1456d5ccfe608adf57b801cecaed.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
 http://185.134.22.150:8080/jokertv/streaming@2021/63054
 
@@ -211,7 +211,7 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140813
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140815
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140814
+https://list.iptvcat.com/my_list/s/d7aedd1c536368165530b4d534289063.m3u8
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140816
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
@@ -248,8 +248,7 @@ http://red.ipfox.org:8080/osama2022/osama2023/49361
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70536
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="Canais Desportivos",Benfica TV
-http://185.134.22.150:8080/jokertv/streaming@2021/1609
-
+https://list.iptvcat.com/my_list/s/1133a326ee262fd3749d960efe266f5a.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149610
 
