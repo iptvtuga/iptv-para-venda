@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png" group-title="Portugal",RTP 1
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140881
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10173.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png" group-title="Portugal",RTP 2
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140883
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10174.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal", SIC
 http://93.152.174.144:4000/play/sic/index.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Portugal",TVI
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10172.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Portugal",TVI
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10219.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.novamente.pt/wp-content/uploads/2016/09/sicnot.jpg" group-title="Portugal",SIC Notícias
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140906
@@ -22,13 +22,13 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140906
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140904
 
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Top FHD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140915
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10217.ts
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Top HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140916
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10217.ts
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Emotion FHD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140917
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10214.ts
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Emotion HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140918
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10215.ts
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Action FHD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140919
 #EXTINF:0 tvg-id="ext" group-title="Portugal",TvCine Action HD
@@ -40,7 +40,7 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140922
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portugal",Cine Mundo
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140923
 #EXTINF:0 tvg-id="ext" group-title="Portugal",NOS Studios HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140924
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10185.ts
 #EXTINF:0 tvg-id="axn.pt" group-title="Portugal",AXN FHD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140925
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portugal",AXN White FHD
@@ -205,42 +205,32 @@ http://185.134.22.150:8080/jokertv/streaming@2021/63056
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140849
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-http://cineapp.org:8000/Fernando/Fernando/7451 
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10155.ts
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140813
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10155.ts
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140815
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10156.ts
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-https://list.iptvcat.com/my_list/s/d7aedd1c536368165530b4d534289063.m3u8
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10156.ts
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140816
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10157.ts
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140816
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10157.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135977 
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10159.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140818
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10160.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 6 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140819
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10158.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 1 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140820
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10162.ts
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140821
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Tennis NL
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149423
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Voetbal  NL
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149424
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Golf  NL
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149425
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Racing  NL
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149427
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Canais Desportivos",Ziggo Sport Select  NL
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149429
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10163.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
 http://red.ipfox.org:8080/osama2022/osama2023/49361
@@ -248,7 +238,7 @@ http://red.ipfox.org:8080/osama2022/osama2023/49361
 http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70536
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="Canais Desportivos",Benfica TV
-https://list.iptvcat.com/my_list/s/1133a326ee262fd3749d960efe266f5a.m3u8
+http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10135.ts
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149610
 
@@ -401,128 +391,6 @@ https://streaming-vod3.iol.pt/vod/_definst_/1/8/e/5/smil:62be445f0cf2ea4f0a5218e
 https://streaming-vod3.iol.pt/vod/_definst_/a/6/2/b/smil:62bf96530cf2f9a86eaba62b-L/chunklist_w1822896113_b2000000.m3u8?nimblesessionid=582102030&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMiAyOjI5OjM5IFBNJmhhc2hfdmFsdWU9WUl6bFdmaGNGSDZud1p6MFNTQXJ0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPXNlcm9saXN0aW5nQGdtYWlsLmNvbQ==
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/62b98c6d0cf2ea367d43180b/500" group-title="Filmes & SÉRIES  Portugal",Isabel Episódio Final
 https://streaming-vod2.iol.pt/vod/_definst_/c/f/b/d/smil:62c0e6720cf26256cd2bcfbd-L/chunklist_w79584464_b2000000.m3u8?nimblesessionid=282401368&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMiAyOjI5OjM5IFBNJmhhc2hfdmFsdWU9WUl6bFdmaGNGSDZud1p6MFNTQXJ0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPXNlcm9saXN0aW5nQGdtYWlsLmNvbQ==
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E01
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222479.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E02
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222478.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E03
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222477.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E04
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222476.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E05
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222475.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E06
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222474.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E07
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222473.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E08
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222472.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E09
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222471.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E10
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222470.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E11" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E11
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222469.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E12" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E12
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222468.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E13" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E13
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222467.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E14" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E14
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222466.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E15" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E15
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222465.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E16" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E16
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222464.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E17" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E17
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222463.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E18" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E18
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222462.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E19" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E19
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222461.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E20" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E20
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222460.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E21" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E21
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222459.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E22" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E22
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222458.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S01 E23" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S01 E23
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222457.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E01
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222956.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E02
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222955.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E03
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222954.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E04
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222953.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E05
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222952.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E06
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222951.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E07
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222950.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E08
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222949.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E09" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E09
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222948.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E10" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E10
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222947.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E11" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E11
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222946.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E12" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E12
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222945.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E13" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E13
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222944.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E14" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E14
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222943.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E15" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E15
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222942.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E16" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E16
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222941.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E17" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E17
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222940.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S02 E18" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S02 E18
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222939.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E01" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E01
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222938.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E02" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E02
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222937.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E03" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E03
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222936.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E04" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E04
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222935.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E05" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E05
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222934.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E06" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E06
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222933.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E07" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E07
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222932.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E08" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E08
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222931.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E09" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E09
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222930.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E10" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E10
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222929.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E11" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E11
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222928.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E12" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E12
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222927.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E13" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E13
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222926.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E14" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E14
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222925.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E15" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E15
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/222924.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pai americano! - Inglês S03 E16" tvg-logo="https://image.tmdb.org/t/p/original/eI9CHGTIGJzM1z3EJJWEEHylgy8.jpg" group-title="English Series",American Dad! - Inglês S03 E16
-
-
-
 
 
 #EXTINF:0 tvg-id="PLANETE.fr" group-title="França",Planete+ FHD
