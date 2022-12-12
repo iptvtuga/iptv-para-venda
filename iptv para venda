@@ -262,13 +262,13 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140911
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 1
-http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87233
+http://45.162.135.1:1080/play/a077
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 2
-http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87231
+http://45.162.135.1:1080/play/a099
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 3
-http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87235
+http://45.162.135.1:1080/play/a08j
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 4
-http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/88422
+http://45.162.135.1:1080/play/a0a7
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 1 
 http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87663
