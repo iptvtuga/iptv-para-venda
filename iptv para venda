@@ -46,9 +46,9 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140925
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portugal",AXN White FHD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140926
 #EXTINF:0 tvg-id="ext" group-title="Portugal",AXN Movies FHD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140927
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87742
 #EXTINF:0 tvg-id="AMC.pt" group-title="Portugal",AMC
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140928
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87740
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portugal",Fox Crime FHD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140929
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portugal",Fox Comedy HD
@@ -66,9 +66,9 @@ http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140935
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Portugal",Hollywood
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140936
 #EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Portugal",Discovery Channel HD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140937
-#EXTINF:0 tvg-id="ext" group-title="Portugal",Investigation Discovery FHD
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140938
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87746
+#EXTINF:0 tvg-id="ext" group-title="Portugal",Discovery Turbo HD
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87748
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Portugal",National Geographic FHD
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140939
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Portugal",Nat Geo Wild FHD
@@ -227,10 +227,10 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10158.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 1 HD
-http://red.ipfox.org:8080/osama2022/osama2023/49360
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87903
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",Eurosport 2 HD
-http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10163.ts
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87896
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
 http://cineapp.org:8000/Fernando/Fernando/8074
@@ -240,7 +240,7 @@ http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/70536
 #EXTINF:0 tvg-country="PT" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="Canais Desportivos",Benfica TV
 http://darkteam.vip:25461/live/ioualid/Ehsuihebbeheisi728/10135.ts
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87291
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Canais Desportivos",CANAL 11 HD
@@ -262,40 +262,35 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/140911
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 1
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/149432
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87233
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059425
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87231
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 3
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465906
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87235
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/b0/8c/a2/b08ca28a898d71814dce11d169d401be.jpg" group-title="Canais Desportivos",ESPN 4
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/36719
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/88422
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 1 
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148194
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87663
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 1 
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148196
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87664
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 1 
 http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148195
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 2
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148198
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87666
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports 2
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148199
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports Arizona 
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148202
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos", FOX Sports Cincinnati
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148203
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports College Atlantic
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148204
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX Sports Detroit
-http://hdsrv.hdsvr.xyz:80/evreniptvPanel/6jRY6NVarS/148205
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87665
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc" group-title="Canais Desportivos",FOX SPORTS PREMIUM MX
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87673
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Canais Desportivos",FIGHT SPORTS 
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://i.imgur.com/1MqD0Ap.png" group-title="Canais Desportivos",Fuel TV HD
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Canais Desportivos",SporTV BR
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
-
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Canais Desportivos",SporTV 1 BR
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/104393
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Canais Desportivos",SporTV 2 BR
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/104394
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE2MDg2YWQtODVjNC00Mjg2LTgyMmQtNjA4MThlOGRhYTVlXkEyXkFqcGdeQXVyODYzMDUxOTM@._V1_.jpg" group-title="filmes infantis PT",Ella Bella Bingo 
 https://tkuniverse22.tk/9537888.mp4
